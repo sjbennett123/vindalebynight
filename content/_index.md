@@ -8,11 +8,7 @@ disableNextPrev:  true
 
 {{% children %}}
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/2ca01790-1d50-4bc8-9849-2eff6e193b56/deploy-status)](https://app.netlify.com/sites/gloryforthefist/deploys)
-
----
-
-## [Current Event]({{< ref "/current_writeups" >}})
+[Current Event]({{< ref "/current_writeups" >}})
 
 ## [<i class="fa fa-video"></i> Weekly Writer Check In - Google Hangouts <i class="fa fa-video"></i> ](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
@@ -35,16 +31,3 @@ disableNextPrev:  true
   - The first Check In after an event we do a [Postmortem]({{< ref "/event_postmortem" >}})
   - The second Check In after an event we review our  [Plot Seeds]({{< ref "/plot_seeds" >}}).
 - All writeups **must** be completed 2 weeks before the event to be reviewed by another plot team. They will check for Nonstandard effects and consistency. Ideally we would do this sooner than that so that feedback could be incorporated before having copies printed but this is the deadline. 
-
-## [Prop tracking - Trello ](https://trello.com/b/A6eLvFdV/polar-props)
-
-- Make sure your props are on the list and in the order that you need them. 
-
-## [Module Writeups for Feedback - Dropbox](https://www.dropbox.com/scl/fo/xy8dqwc9ozq9bzuzdh3fy/h?dl=0&rlkey=76lz7t41srkz8zj64oxhe6wud)
-
-- Install the app https://www.dropbox.com/install.  
-- Ask to be invited to the Dropbox folder. This will synchronize all of the Writeups and Resources to your computer. 
-- This is going to be more than you need,  you are probably only going to look at this months stuff but you might need to read some background that we don't have on the website yet. 
-- Don't delete other people's stuff. 💣 **I'm looking at you Ken Courtney! 💣**
-
----
