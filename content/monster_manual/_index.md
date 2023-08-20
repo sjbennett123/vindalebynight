@@ -6,11 +6,7 @@ draft: false
 
 {{% children %}}
 
-
-
 ### Role
-
-[Monster Manual]({{< ref "/monster_manual/homegrown/" >}})
 
 ```yaml
 ---

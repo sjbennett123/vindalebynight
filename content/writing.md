@@ -289,8 +289,6 @@ Remember to give your characters names. Use name lists such as the [Storygames N
 
 ### National Monster Card
 
-[Monster Manual]({{< ref "/monster_manual/national/" >}})
-
 ```yaml
 ---
 title: 
