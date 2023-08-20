@@ -6,285 +6,94 @@ draft: false
 
 {{% children %}}
 
-##  Creatures of Vindale:
 
-Gargoyles of Nights Stone
 
-Descriptive phrase: “Large animated stone statue with wings”
+### Role
 
-Scout/Warrior/Master
+[Monster Manual]({{< ref "/monster_manual/homegrown/" >}})
 
-Can “Harden” (Self Imprison, Dispel normally) on a 3 count when feet touching stone and will cast “Regenerate” while encased in Nights Stone
+```yaml
+---
+title: 
 
-Innate Stone Aura
+description: 
+Layout: role
 
-40 Elemental Darkness x3
+introduction: 
+motivation: 
+tactics: 
+movement:
+speech:
 
-40 Elemental Stone x3
+body:
+defenses: 
+weapons: 
+damage:
+magic: 
+abilities:
+killing_blow: 
 
-May escape combat with 3 count “1 I Take Flight…” when outdoors at any time
+descriptive_phrase:
+costuming: 
+makeup:
+props: 
 
-Will take 30/70 damage from Shatter/Destroy like a “Stone Golem” 
+reset:
+---
+```
 
-Threshold 5
+#### title
 
-Immune to Pin/Bind/Web/Confine
+#### description
 
-No Metabolism
+#### Layout
 
-Healed by Stone and Darkness
+#### introduction 
 
-Wolves of the Feral Hunt
+#### motivation
 
-Descriptive phrase: “Large White Wolves with red markings”
+#### tactics
 
-Cub/Veteran/Alpha
+#### movement
 
-Can “Devour” on a 3 count and recover 40 body if they feast on a freshly “killed” enemy. This is not a killing blow effect and still be healed back up
+#### speech
 
-Physical Strike Pin x3
+#### body
 
-Mighty Slay x1
+#### defenses
 
-Rips from Pin/Bind/Web/Confine
+#### weapons
 
-May cast Magic Fear at will after physically howling
+#### damage
 
-Bats of Sanguine Reaping 
+#### magic
 
-Descriptive phrase: “Large Bat with Red Markings”
+#### abilities
 
-Can “Devour” on a 3 count and recover 40 body if they feast on a freshly “killed” enemy. This is not a killing blow effect and still be healed back up
+#### killing_blow
 
-Nausea Gas x5
+#### costuming
 
-Sleep Gas x3
+#### makeup
 
-May escape combat with 3 count “1 I Take Flight…” when outdoors at any time
+#### props
 
-Swing Normal Nausea
+#### reset
 
-Rotting Sanguine Vine
+---
 
-Descriptive phrase: “Red rotting mass of moving Vines”
+If there is something that you are not using don't populate it the system will handle it. 
 
-Can “Devour” on a 3 count and recover 40 body if they feast on a freshly “killed” enemy. This is not a killing blow effect and still be healed back up
+Often there are bits where the cast need to add their own little something to a role. Give some guidance for this so that they can be more confident in their play.
 
-Physical Web x3
+Try to give the cast some guidance on making the characters come alive. What do you say exactly how do you say it. What mannerisms will make the characters work. 
 
-Physical Confine x3
+Remember to give your characters names. Use name lists such as the [Storygames Name Project](http://eakett.ca/sgnp/)  
 
-Paralysis Gas x3
 
-Feeblemind Gas x3
 
-No Metabolism
 
-Swings Lesser Nausea
 
-Bloody Shadow Attercob Assassin
 
-Descriptive phrase: “Black furry humanoid with red markings”
-
-May “Rift” on 3 count at will in natural darkness
-
-May cast “Regenerate” at will in natural darkness
-
-Gaseous Form x3
-
-Immune to Poison
-
-Immune to Binding
-
-Physical Web x5
-
-Physical Confine x3
-
-Vertigo Gas x5
-
-Sleep Gas x5
-
-Physical Waylay x5
-
-Dodge/Assassinate x5
-
-Swings Disease
-
-May Renew skills when successfully killing blows a target in natural darkness
-
-Chaos Dire Rats
-
-Descriptive phrase: “Large Black Rats with Green Markings”
-
-Physical Strike Taint Blood x3
-
-Weakness Gas x3
-
-30 Elemental Chaos
-
-Swing Lesser Drain
-
-No Metabolism
-
-Healed by Chaos
-
-Clockwork Golem
-
-Descriptive phrase: “Golem with clock gears on its body”
-
-White Tabard with Clock drawn on it
-
-\- Move slow and stomp your feet to imitate your heavy machinery weight 
-
-Physical Strike Bind x3
-
-Physical Strike Shatter x3
-
-Spellstrike 50 Elemental Time x3
-
-30 Elemental Time x5
-
-Takes 30/70 damage from Shatter/Destroy
-
-Healed by Time
-
-Swing Magic Time
-
-Shattered Bonebreaker
-
-Descriptive phrase: “Large hulking skeleton with armor fused to bones”
-
-Physical Strike Destroy x3
-
-Physical Strike Shatter x3
-
-Physical Strike Wither Limb x3
-
-Physical Strike Silence x3
-
-Rapid Refit x3
-
-Slay/Parry x4
-
-Swings Massive
-
-Threshold 10
-
-No Metabolism
-
-Immune to Binding
-
-Takes 30/70 damage from Shatter/Destroy like Bone Golem 
-
-Sanguinus Flesh Beast
-
-Descriptive phrase: “Large corpse dripping with blood and decayed flesh”
-
-Can “Devour” on a 3 count and recover 40 body if they feast on a freshly “killed” enemy. This is not a killing blow effect and still be healed back up
-
-Spellstrike Wither Limb x5
-
-Spellstrike Taint Blood x3
-
-Spellstrike Weakness x3
-
-Magic Cause Mortal 40 x5
-
-Magic Cause Disease x3
-
-Slay/Parry x2
-
-Swings Lesser Taint Blood
-
-Damage Cap 5
-
-No Metabolism
-
-Immune to Binding
-
-Takes 30/70 damage from Shatter/Destroy like Flesh Golem 
-
-Madness Wraith
-
-Descriptive phrase: “Floating non-corporeal human with bleeding eyes”
-
-Arcane Berserk x3
-
-Magic Drain Life x3
-
-Arcane Fear x5
-
-Magic Vampire Charm x3
-
-Magic Cause Mortal Wounds 40 x5
-
-No Metabolism
-
-Non-Corporeal Form
-
-Gaseous Form x3
-
-Swings Lesser Paralysis
 
  
-
-Marble Lions
-
--Descriptive Phrase: Large Lion made of Marble
-
--Comes to life from Marble Lion Statues
-
--Reflects all magic except Destroy/Shatter
-
--Immune to Binding
-
-Damage Cap 5
-
-Physical Strike Destroy x5
-
-Physical Strike Bind x5
-
-Physical Strike Silence x5
-
-Critical Slay/Parry x2 (Massive)
-
-Swings Massive
-
-Takes 30/70 damage from Shatter/Destroy like Marble Golem 
-
-Eye Slitters
-
-\- Descriptive phrase: “deformed hairless humanoid with eyes slit from their face”
-
-\- Only are alerts and will chase sound, completely blind otherwise to PCs (creatures from The Decent)
-
-\- If activated by sound, fight like rage monsters! Go fast and hard, do not let up till you downed a target and stand over them till another threat presents Itself or you are drawn off by sound.
-
-Physical Strike Confine x3
-
-Physical Strike Bind x3 
-
-Physical Strike Silence x3
-
-Physical Strike Pin x3
-
-Swings 20 Normal Lesser Disease 
-
-Will fall unconscious screaming if a trap is set off in their range or other equivalent loud blasting sound
-
-Blood Golem
-
-Made as agents to gather blood for the Vampires during the daytime (Supply running low and scroll expired, outsourced to Rockshire “The Guild” for assistance)
-
-150 Body
-
-10 Normal Taint Blood
-
-5 Slays
-
-3 Returns
-
-5x/Day Revive/Renew on Killing blow to “Drain Blood” Once 5 Killing Blows obtained they retreat
-
-PURIFY BLOOD CRUMBS YOU INSTANTLY
-

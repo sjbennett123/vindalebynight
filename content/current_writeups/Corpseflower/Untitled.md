@@ -1,0 +1,1 @@
+Corpseflower: A concerned citizen comes to town with information about the Rotting Sanguine Vines. A failed attempt at cheaply replicating Vindale Wine mixed with blood magick has lead to the corruption and animation of the vines beneath the soil in Vindale, now the adventurers must go and torch the failed Vineyard and creatures the vines have infected.
