@@ -1,6 +1,6 @@
-baseURL = 'https://gloryforthefist.netlify.app'
+baseURL = 'https://vindalebynight.netlify.app/'
 languageCode = 'en-us'
-title = 'Polar Larp'
+title = 'Vindale'
 theme = 'hugo-theme-learn'
 disableKinds = ["taxonomyTerm" ]
 
