@@ -1,5 +1,5 @@
 ---
-title: Army of the Night
+title: Into the Everblack
 Layout: module
 
 author: 
@@ -11,7 +11,7 @@ weight:
 plotline: 
 requirements: 
 
-description:  Shortly after the adventurers reach the City of Vindale and enter the Tavern. A swarm of Wolves of the Feral Hunt and Bats of Sanguine Reaping descend on the town of Vindale. Their numbers seem vast and relentless, after some time they will pull back once they have tested these new adventurers. 
+description: The game opens with the players coming into town, along the road are blue/purple torches and Orc heads impaled on spikes. Standing infront of the Tavern is a member of the Blackthorn hunter family cloaked in black hiding their face handing out the “Blackthorne’s Guide to Surviving Vindale” to the new coming adventurers. The cloaked information vendor will tell them that new adventures haven’t been to Vindale in 3 years now
 synopsis:   
 outcomes: 
 
@@ -48,3 +48,4 @@ running_notes:
 
 ---
 
+: 
