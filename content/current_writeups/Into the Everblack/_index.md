@@ -7,7 +7,7 @@ reviewer:
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: friday night
-weight: 
+weight: 1
 plotline: 
 requirements: 
 
