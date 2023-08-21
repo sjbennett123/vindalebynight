@@ -1,0 +1,1 @@
+Large fast shadowy humanoid shapes with red markings have been sighted in the forest and are trying to capture citizens
