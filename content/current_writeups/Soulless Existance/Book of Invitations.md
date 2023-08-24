@@ -26,5 +26,5 @@ Additionally for every character that rolls a 76-100 result run the module "Lurk
 
 **Components**: 10P 5D 5T
 
-This ritual must be cast on a willing target. This places the essence of the Sleeper of Nagios in the target and it will begin to dominate the thoughts and emotions of it's host. This acts as both a Transform and a high level of craftman other skills. At the end of one year the sleeper will depart and the host will feel a terrible sense of loss as they will never be able to carry him again. 
+This ritual must be cast on a willing target. This places the essence of the Sleeper of Nagios in the target and it will begin to dominate the thoughts and emotions of it's host. This acts as both a Transform and a high level of craftsman other skills. At the end of one year the sleeper will depart and the host will feel a terrible sense of loss as they will never be able to carry him again. 
 
