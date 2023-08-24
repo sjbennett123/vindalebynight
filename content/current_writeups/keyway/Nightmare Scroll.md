@@ -1,28 +1,33 @@
-Nightmare Sroll
+---
+title: Nightmare Sroll
+---
 
 Hear us, Ancient One!
 
-hear U Restless One!
+Hear us, Restless One!
 
-Hear Us Cuel one!
+Hear us, Cuel one!
 
-We beseech you .. 
+We beseech you ...
 
-all who wake know the power of nightares 
+All who wake know the power of nightares.
 
-all wh wake feel the tought of nightmare
+All who wake feel the touch  of nightmare.
 
-all who wake feel nightamare's truht
+All who wake feel nightamare's truth
 
+We lay ourselves on your harch mercyt. accept us into your kngdom show us the turths we must see
 
+Lead to into your lands lord of the long night.
 
-we lay ourselves on your harch mercyt. accept us into your kngdom show us the turths we must see
+To show our dedication to you, we offer these false gifts of your eternal rival. We give them freely. We entrust these glimmers of unearned  light into your dark stern hands. We accept your truths.
 
-lead to into your landds lord o the long night.
+I <Name> relinquish you this my most preciosu dream 
 
-To show our dedication to you, we offer these false gifts of your eternal rival. We give them freely. We entrust these glimmers of eneraned light into tyou dark stern hands. We accept your truths.
+<Says Dream> 
 
-I <Name> relinquish you this my most preciosu dream <SAAYS Dream> and now it is my nightmare
+and now it is my nightmare.
 
-<drink> <Chorus> lead us to your lands lord of this long night. 
+<drink> 
 
+<Chorus> lead us to your lands lord of this long night. 
