@@ -1,4 +1,3 @@
-```
 ---
 
 Layout: plotline_overview
@@ -6,7 +5,7 @@ title: Soulless Existance
 author: Chris Colland with Scott Bennett
 description: 
 ---
-```
+
 
 ### The Heist
 
