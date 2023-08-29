@@ -16,9 +16,9 @@ description: When the adventurers leave the storehouse in A Plague is Born, they
 synopsis: |
   The Dire Chaos Rats have escaped and have invaded the inn next door to the storehouse. Screams of the patrons can be heard as soon as the adventurers exit the storehouse. This is round two with the rats.
 
-  If a Rat downs a PC, they will infect them on the count of "I infect you one, I infect you two, I infect you three." The PC will then become Infected (see running notes). There should be approximately 30 Dire Chaos Rat spawns. These rats, unlike their just born counterparts, will target, attack, and infect every adventurer they can.
+  If a Rat downs a PC, they can bite and infect them on the count of "I infect you one, I infect you two, I infect you three." The PC will then become Infected (see running notes). There needs to be approximately 30 Dire Chaos Rat spawns. These rats, unlike their just born counterparts, will target, attack, and infect every adventurer they can.
 
-  If Velray Fisttoe is used, he will be screaming for help when the adventurers exit the storehouse, and will thank the adventurers profusely after they clear out the rats from their inn.
+  If Velray Fisttoe is used, they will be screaming for help when the adventurers exit the storehouse, and will thank the adventurers profusely after they clear out the rats from their inn.
     
 outcomes: 
   - The PCs go for round two with the rats
@@ -28,7 +28,7 @@ outcomes:
 number_of_cast_members: all
 Roles: Velray Fisttoe- Owner and proprietor of the Half Pony Inn (optional), Dire Chaos Rats (approximately 30 spawns)
 
-props: 
+props: sound effects- screaming and rat squeaks
 makeup: Dire Chaos Rats- Rat masks with green markings, green sash
 treasure: 1 gold per rat spawn
 magic_items:
