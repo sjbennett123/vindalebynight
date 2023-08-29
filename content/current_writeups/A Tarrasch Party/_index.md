@@ -48,32 +48,17 @@ Roles: messenger, Eslendra Crinamorte (Dead), Alderik Crinamorte (Dead), 3 or Mo
 props: Box for confiscated goods/collateral, Tarrasch symbol note, circle of power, figure 8 "restraints"
 makeup: Dead vampire makeup, Live vampire makeup
 treasure: none
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
-
-rumors: 
 
 hook: An invitation is delivered to a specific group of PCs
 scenes:
-  - 
+  -
     oog: Unused cabin
     ig: Crinamorte Mansion
     flee_point: None
-	
- - 
+  -
     oog: Unused cabin 2
     ig: Vindale Jail
     flee_point: None
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
 
 
 ---

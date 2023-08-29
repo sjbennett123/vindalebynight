@@ -29,18 +29,11 @@ outcomes:
 number_of_cast_members: all 
 Roles: Krath Stormwell-Tarrasch Black Rook, Tarrasch Black Pawn-Fighter (ten spawns), Zal Crowgem-Vindale City Guard Tracker (optional)
 
-props: "Crinamorte" hit note, Tarrasch necklace 
+props: 
+  - Crinamorte hit note
+  - Tarrasch necklace 
 makeup: Pawn- Tarrasch tattoo on back of hand
 treasure: Black Rook chess piece, Black Pawn chess piece (Take back chess piece rep and give tag at end of Event, remind PCs to turn them in sometime during the weekend)
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
-
-rumors: 
 
 hook: The module "Tarrasch-ing Through the Woods" OR being directly lead to the Tarrasch camp
 scenes: 
@@ -49,10 +42,6 @@ scenes:
     ig: Tarrasch Camp in the woods of Vindale
     flee_point: Mod Shack/none
 
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
 running_notes: Every Tarrasch NPC should have a black chess piece when going out. The pawns will give it up on the last of their spawns.
 
 
