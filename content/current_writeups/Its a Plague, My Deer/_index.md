@@ -53,7 +53,7 @@ scenes:
     oog: mod shack/outside
     ig: big tainted well
     flee_point: none
-  - 
+
 
 non_standard_effects: Pool of green water will deal 100 Elemental Chaos per second for PCs
 rules_clarifications: 
