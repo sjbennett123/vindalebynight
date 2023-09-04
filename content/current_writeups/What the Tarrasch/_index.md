@@ -16,7 +16,7 @@ description: As a lark, the Bishop and King send a Pawn to the tavern in Vindale
 synopsis: |
   Some poor soul in the employ of the Tarrasch is tasked with a rather simple task, go get a drink in the tavern in Vindale. Thegreth Feseldu, the drinker thinks it strange, having to go from Stonewood to Vindale for a drink, but oh well. The pay was good, and they got a horse out of it. The drinker will try to sell the adventurers the horse, as they cannot care for it.
   
-  Thegreth will enter the tavern easially and in good spirits. They will get a drink, sit down, and talk. They should be fun and easy to talk to, if a bit loud. Thegreth should not be worried about drawing eyes, in fact they love it! A quick wit and a wicked sense of humor come easy to Thegreth, and they show it proudly. If wanted, they can start a card game with those in the tavern. The goal is to not hide the hand tattoo, and to draw attention to it and themselves.
+  Thegreth will enter the tavern easially and in good spirits. They will get a drink, sit down, and talk. They are fun and easy to talk to, if a bit loud. Thegreth is not be worried about drawing eyes, in fact they love it! A quick wit and a wicked sense of humor come easy to Thegreth, and they show it proudly. If wanted, they can start a card game with those in the tavern. The goal is to not hide the hand tattoo, and to draw attention to it and themselves.
   
   Information known by the drinker, Thegreth Feseldu, no other information is known about the Tarrasch except by plot direction- 
   

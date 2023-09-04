@@ -23,11 +23,11 @@ synopsis: |
   
   Once the invitation has been delivered, and the group can then make their way to the home of the Crinamorte Vampire Clan. They are not an old clan, but have been in the region long enough to have established winery. They are liked in Vindale. Therefore, there isn't any other information available on them. 
   
-  When the adventuring group gets there (the guard NPCs should preferably be around the corner, out of sight), they find the door open and the bodies of both on the floor. Clutched in the hand of one of the bodies is a piece of paper with the Tarrasch symbol.  The PCs are given 30-45 seconds to examine the scene after the paper is found, before the Vindale Guard shows up (on signal from the mod marshal). When the guards show up, the group is striped of weapons and arrested. "Restraints" are placed on their wrists (figure 8 loops that can be grasped or big enough to safely rep) 
+  When the adventuring group gets there (the guard NPCs preferably need to be around the corner, out of sight), they find the door open and the bodies of both on the floor. Clutched in the hand of one of the bodies is a piece of paper with the Tarrasch symbol.  The PCs are given 30-45 seconds to examine the scene after the paper is found, before the Vindale Guard shows up (on signal from the mod marshal). When the guards show up, the group is striped of weapons and arrested. "Restraints" are placed on their wrists (figure 8 loops that can be grasped or big enough to safely rep) 
   
   (If the adventurers mistakenly or purposely kill the guards/Captain Vintrel, a bigger, badder group will come and get them and the arrest will proceed as written.)
   
-  The group is then taken to jail though a route that takes them near the Tavern, or within sight of the tavern. The message in doing this is the guard is showing off "Look what we got, better not step out of line" Once at the jail, they speak to the Captain of the Guard Dyinn Vintrel. The jail should have a circle of power, and the adventurers are placed within, hand restraints removed.
+  The group is then taken to jail though a route that takes them near the Tavern, or within sight of the tavern. The message in doing this is the guard is showing off "Look what we got, better not step out of line" Once at the jail, they speak to the Captain of the Guard Dyinn Vintrel. The jail needs to have a circle of power, and the adventurers are placed within, hand restraints removed.
   
   The Captain, knowing the groups reputation and status, will allow them to talk and with persuasion (and with medium to much difficulty), convince Vintrel that they are innocent. If they are successful, the Captain will task them to prove it. 
   

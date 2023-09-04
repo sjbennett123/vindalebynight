@@ -1,5 +1,5 @@
 ---
-title: Rook Fight, 4a
+title: Rook Fight, 3a
 Layout: module
 author: Brittney Perry
 reviewer: null

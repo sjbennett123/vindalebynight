@@ -16,7 +16,7 @@ description: An interactive tracking module that is optional to be ran depending
 synopsis: |
   A trail has been laid using bright colored squares of cardstock. When the PCs decide to track the assassins, a square of colored paper is given to the tracker. It is explained to the tracker that they will need to find (or alternately taken to) a matching square to start the trail. They are told to follow the trail of squares through the woods to the beginning of the mod. They are In Game the entire time. The squares are Out Of Game, and represent trail marks and/or scent.
   
-  Standing at the first square, the second square should be able to be seen, and then followed to that location. The third square is visible from the second, and so on and so forth until they get to the end, where the Tarrasch are waiting. 
+  Standing at the first square, the second square needs to be able to be seen, and then followed to that location. The third square is visible from the second, and so on and so forth until they get to the end, where the Tarrasch are waiting. 
   
   If the tracker from the city is used, he needs to make sure to say something to the effect of "If you need anymore of my help, I can be found at the guard house" before starting the track, in case he dies.  
   
