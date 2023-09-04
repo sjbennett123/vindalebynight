@@ -11,7 +11,7 @@ weight:
 plotline: Contagion
 requirements: A Plague Is Born ran
 
-description: Several people are seen near/in the tavern.  They all have a green rash creeping up their necks and on their arms. They are all of differing races, backgrounds, and jobs. But they all one thing in common, they all encountered Sam Nekrov.
+description: Several people are seen near/in the tavern.  They all have a green rash creeping up their necks and on their arms. They are all of differing races, backgrounds, and jobs. But they all one thing in common, they all drank from the spring in town.
 
 synopsis: The full scope of what Sam has done is starting to be seen, as people who met Sam and his phlegm are coming to town. One person is someone that gambled with him, one is the proprietor of the Half Pony Inn, and another is one who traveled on the road into town with Sam. The people are all similarly covered in a green rash along their necks, arms, and hands, are coughing, and are spitting green phlegm (optional). These people seem otherwise healthy, and are in the tavern to get a bite to eat, drink, and mingle with the adventurers. They will take it personal if asked to leave, to cover their mouths, will flip their lid if retained against their will, will complain loudly that they are being persecuted, etc. Channel your inner anti- masker spirit, and turn Karen if confronted or detained.
      

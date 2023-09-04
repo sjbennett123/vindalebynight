@@ -11,7 +11,7 @@ weight:
 plotline: Corpseflower
 requirements: After A Bloody Good Deal
 
-description: Overwhelmed, the patron of les Sangsues Abyssale has come to the town, seeking aid. 
+description: Overwhelmed, the les Sangsues Abyssale has come to the town, seeking aid. 
 
 synopsis: |
   Scene set up- The mod shack needs be as dimly lit as safely possible. Each of the three 'chambers' is filled with blood tainted rats, and spiders, and nothing else. The end vault has leaky crates of wine with varying descriptions in each crate. On the walls are taped lines of twisted streamers up the walls. These are the vine roots. The NPCs playing vines need to be clustered in place around these roots. 
@@ -27,7 +27,7 @@ outcomes: The vines are pulled up and burned
 number_of_cast_members: all
 Roles: Blood tainted rat, blood spider, Dire Blood Tainted Rat, Dire Blood Spider, Blood Root
 
-props: streamers, tape, 12 wine boxes with wine stains, descriptive notes in each box
+props: streamers, tape, 12 wine boxes with wine stains, descriptive notes in each box, fake torches
 makeup: red-out
 treasure: 1 gold per regular rats and spiders, 2 gold for dire rats and spiders
 magic_items:
