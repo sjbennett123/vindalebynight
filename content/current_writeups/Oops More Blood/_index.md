@@ -27,7 +27,7 @@ outcomes: The vines are pulled up and burned
 number_of_cast_members: all
 Roles: Blood tainted rat, blood spider, Dire Blood Tainted Rat, Dire Blood Spider, Blood Root
 
-props: streamers, tape, 12 wine boxes with wine stains, descriptive notes in each box
+props: streamers, tape, 12 wine boxes with wine stains, descriptive notes in each box, fake torches
 makeup: red-out
 treasure: 1 gold per regular rats and spiders, 2 gold for dire rats and spiders
 magic_items:
