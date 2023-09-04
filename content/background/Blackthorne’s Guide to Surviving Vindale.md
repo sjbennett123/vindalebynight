@@ -8,19 +8,23 @@ To whom finds this book read it for it may save your life,
 
 This book is a collection of our families history, local stories, creatures of and accounts of Vindale. This book is intended to keep you vigilant and knowledgeable of the horrors you may face at different times of the year in the city of Vindale. The Blackthorne Hunter Family has been amongst the woods of Vindale for 35 years now. Until recently our names were forgotten to the echoes of Time itself, but this has since been corrected with recent events.
 
-Traditionally, there has always been a Vampire Prince of Vindale as was “custom” in these lands. Each Prince brings its own myriad of problems, it is our family's job to do our best to protect the citizens of Vindale from anything they can send. This most recent breed of Vampire that has emerged is smarter than the last. It could be a change of Elders or Council, but it seems like an insurrection happened within their ranks over the last 4 years and the ruling courts now have dispatched the old guard. They will appear to be your friends and the defenders of Vindale but they are monsters through and through. Some have shown potential in being able to contain their bloodlust and be reasonable people but normally this is a masquerade they wear to gain favor with the population. I won’t say I like it, but this current brood of Vampires in Vindale are the most reasonable we have dealt with yet, there haven’t been killings in the streets and mass murder under their reign. They are sociable and among the people, it is not uncommon to see them walking among the streets at night. Be careful if you engage with them and watch your surroundings.
+Traditionally, there has always been a Vampire Prince of Vindale as was “custom” in these lands. Each Prince brings its own myriad of problems, it is our family's job to do our best to protect the citizens of Vindale from anything they can send. This most recent breed of Vampire that has emerged is smarter than the last. It could be a change of Elders or Council, but it seems like an insurrection happened within their ranks over the last 4 years and the ruling courts now have dispatched the old guard. They appear to be friends and the defenders of Vindale but they are monsters through and through. Some have shown potential in being able to contain their bloodlust and be reasonable people but normally this is a masquerade they wear to gain favor with the population. I won’t say I like it, but this current brood of Vampires in Vindale are the most reasonable we have dealt with yet, there haven’t been killings in the streets and mass murder under their reign. They are sociable and among the people, it is not uncommon to see them walking among the streets at night. Be careful if you engage with them and watch your surroundings.
 
-In the end, they all must die, but the night is powerful and endless, we will do what we must for Vindale.
+In the end, they all must die, but the night is powerful and endless, we do what we must for Vindale.
 
 *~V*
+
+A History of the Vindale Vampires
+
+Vindale once lived in peace from Vampire threat many years ago but under a blood moon, 3 Siblings were taken from a noble family in exchange for a debt paid off. The 3 siblings were captured by a small band of Vampires, the 6 founders of the Houses and Clans of the future Court of Vindale.
 
 ## A History of the Blackthorne Family
 
 We have walked in the darkness among Woodhaven for years now. However, our name has been lost to history through reasons that are hard to explain. We are not the lawless savage monster hunters people portray us as. We might employ barbaric and seemingly cruel tactics, but when you hunt creatures of the night, they show no mercy so why should we when we hunt them. 
 
-We are banned from residing within any city walls due to the violent nature of our profession. We live happily in wagon caravans and underground keeps for safety and mobility. You can approach our camps freely if you are free of evil taint or intention, our families magics will repel any creature of the night at the edge of them. If you see blue flames burning a creature in the woods, then know they are evil and not welcome. The locals take solace knowing we lurk in the dark as well as the creatures. You won’t see us walking openly in the city streets besides getting supplies unless we are tracking a creature or someone we expect to hurt innocents. 
+We are banned from residing within any city walls due to the violent nature of our profession. We live happily in wagon caravans and underground keeps for safety and mobility. You can approach our camps freely if you are free of evil taint or intention, our families magics repel any creature of the night at the edge of them. If you see blue flames burning a creature in the woods, then know they are evil and not welcome. The locals take solace knowing we lurk in the dark as well as the creatures. You won’t see us walking openly in the city streets besides getting supplies unless we are tracking a creature or someone we expect to hurt innocents. 
 
-At any time there are 7 Elders of the Blackthorne Council, we all have our roles and our purposes for the family. If an agent of the Night finds this letter, know our mumbles will be as endless and relentless as yours, we will not rest until you are removed from Undeath.
+At any time there are 7 Elders of the Blackthorne Council, we all have our roles and our purposes for the family. If an agent of the Night finds this letter, know our numbers are as endless and relentless as yours, we will not rest until you are removed from Undeath.
 
 You will know our symbol and learn to fear us or love us depending on what lies in your heart. If you aid the agents of the night, expect no mercy from us, only a swift death. If you are being controlled by them, we will attempt to save you if we can but sometimes they curse people to death and we cannot save everyone.
 
@@ -48,7 +52,7 @@ The city of Vindale is the pinnacle of Gothic beauty, there is not a more beauti
 
 There is a large clocktower in the center of Vindale not far from the Burning Goblet Tavern. Though the clock keeper has not been seen in ages now, the Clocktower of Vindale runs seamlessly without missing a second. 
 
-It is not uncommon to see children wearing pumpkins and chasing each other about the streets of Vindale. Legend has it the pumpkins that grow in Vindale are the best in the entire land, said to be an omen of good luck if you have large healthy pumpkins growing on your land. Black Lillies, Orchids, and Roses grow year round in Vindale without any explanation, no rhyme or reason as to why these 3 flowers grow without any special care or out of season confusing botanists for ages. Depending on the moon phase these flowers will glow in the moonlight or lack there of moonlight, scholars say they have different magical properties with the seasons.
+It is not uncommon to see children wearing pumpkins and chasing each other about the streets of Vindale. Legend has it the pumpkins that grow in Vindale are the best in the entire land, said to be an omen of good luck if you have large healthy pumpkins growing on your land. Black Lillies, Orchids, and Roses grow year round in Vindale without any explanation, no rhyme or reason as to why these 3 flowers grow without any special care or out of season confusing botanists for ages. Depending on the moon phase these flowers glow in the moonlight or lack there of moonlight, scholars say they have different magical properties with the seasons.
 
 Avian wildlife around Vindale is mainly condensed to vultures,crows, and ravens. This is the result of many generations of predator creatures and selection of the ruling families of Vindale. Killing any of these avian creatures is not only a bad omen, it is illegal, and a curse might befall you and your family. 
 
@@ -92,15 +96,13 @@ The local nobility, if you want to call it that, is that of a collection of peop
 
 As for the other “Commoners” who are unique in the town of Vindale, which is a large statement, there are two that stand out in my eyes as both useful and ones you should be careful with when you deal with them.
 
-**Old Jarod, the Crazed Hermit**: Rumored to be once a powerful Celestial magician, his heart was shattered by a dead lover. He will tell you tales and talk till your ears fall off, but his stories are absolutely maddening. His speech patterns are odd and otherworldly for a supposedly educated person. Possibly the most disturbing part about Old Jarod is the ritual he makes you perform when you ask for his help.  But that is for you to experience on your own. 
+**Old Jarod, the Crazed Hermit**: Rumored to be once a powerful Celestial magician, his heart was shattered by a dead lover. He tells tales and talks till your ears fall off, but his stories are absolutely maddening. His speech patterns are odd and otherworldly for a supposedly educated person. Possibly the most disturbing part about Old Jarod is the ritual he makes you perform when you ask for his help.  But that is for you to experience on your own. 
 
 **Grim, the Undertaker of Vindale**: Grim is a quiet type, his facial expressions and cold white eyes tell you more than his words normally. If he speaks to you, it is like he is there but someone else is speaking. Something about him terrifies me, but I don't know what it truly is about Grim. He is a good person and has never harmed anyone unless they disturb his grave keeping routine. I once asked him a personal question. I woke up in a pumpkin patch without clothes covered in blood wearing a pumpkin on my head without memories of the last few days. Never again will I ask him such a question. Either I experienced something I couldn't comprehend or that was his cruel and morbid sense of humor, either way, don't offend him.
 
 *~ M*
 
 ## The Vampire Houses and Clans of the Vindale Courts
-
-Vindale once lived in peace from Vampire threat many years ago but under a blood moon, 3 Siblings were taken from a noble family in exchange for a debt paid off. The 3 siblings were captured by a small band of Vampires, the 6 founders of the Houses and Clans of the future Court of Vindale.
 
 ### The 3 Houses of Vampire Nobilty 
 
@@ -124,19 +126,19 @@ Vindale once lived in peace from Vampire threat many years ago but under a blood
 
 ### House of Bloody Shadows
 
-Led by Lord Alvaro Balduino de-los-Reyes (Lord Reyes informally, his full name on written documents and for deals being struck), a former warrior king of a lost noble family. A charming tyrant that can be reasoned with diplomatically. He loves to trade boons and favors in a court setting. Would prefer to make a deal and win the battle without stepping foot on the field, but if enraged Reyes will take up his sword and show no mercy to his foes or those who have slighted him. If you do not agree with him or submit to his will he will dominate you to bow or enslave you to do his work unwillingly. He is the current Prince of the Vindale Vampire Court.
+Led by Lord Alvaro Balduino de-los-Reyes (Lord Reyes informally, his full name on written documents and for deals being struck), a former warrior king of a lost noble family. A charming tyrant that can be reasoned with diplomatically. He loves to trade boons and favors in a court setting. Would prefer to make a deal and win the battle without stepping foot on the field, but if enraged Reyes takes up his sword and show no mercy to his foes or those who have slighted him. If you do not agree with him or submit to his will he will dominate you to bow or enslave you to do his work unwillingly. He is the current Prince of the Vindale Vampire Court.
 
 ### House of Sanguinus Nocturna
 
-Led by Lord Magnus Erebus, a powerful magic scholar who devoted his studies in life to advanced formal celestial magic, in death he has become more favorited with Necromancy research and rituals to create new breeds of undead abomination, his prowess as a Celestial wizard has never been questioned as he will openly challenge people to magical duels if they question him.
+Led by Lord Magnus Erebus, a powerful magic scholar who devoted his studies in life to advanced formal celestial magic, in death he has become more favorited with Necromancy research and rituals to create new breeds of undead abomination, his prowess as a Celestial wizard has never been questioned as he openly challenges people to magical duels if they question him.
 
 ### House of Feral Howls
 
-Led by one known as “Ravenlord”, In life Samiel Walker was a humble farmer and hunter for his king with an affinity for wild animals. When he was embraced to the night, he was left for dead in the forest by his sire. The only creatures to hear his cries for help were an unkindness of ravens in the Vindale woods. They came and drank of his blood and became empowered by the essence of darkness itself. They carried him to safety where Sameul began his undeath in a cavern. Over time he has mastered the power of the corrupted animals of Vindale’s wilderness. He is always accompanied by a swarm of humanoid Ravens who will viciously defend him and attack on his command.
+Led by one known as “Ravenlord”, In life Samiel Walker was a humble farmer and hunter for his king with an affinity for wild animals. When he was embraced to the night, he was left for dead in the forest by his sire. The only creatures to hear his cries for help were an unkindness of ravens in the Vindale woods. They came and drank of his blood and became empowered by the essence of darkness itself. They carried him to safety where Sameul began his undeath in a cavern. Over time he mastered the power of the corrupted animals of Vindale’s wilderness. He is always accompanied by a swarm of humanoid Ravens who viciously defend him and attack on his command.
 
 ### Clan of Creeping Death 
 
-Led by Khaldun Amaranth, in life Khaldun was a murderer and rogue to a deadly band of assassins. His throat was slit upon his embrace so he does not speak normally, his only means of communication is telepathy. He is cold and calculating. He does not make deals. He will complete the contract at all costs. He will kill anyone who gets between him and his prey. He normally walks alone at night but on missions he is accompanied by a group of elite rogues who ensure no witnesses or survivors are left. 
+Led by Khaldun Amaranth, in life Khaldun was a murderer and rogue to a deadly band of assassins. His throat was slit upon his embrace so he does not speak normally, his only means of communication is telepathy. He is cold and calculating. He does not make deals with his prey. He completes the contract at all costs. He will kill anyone who gets between him and his prey. He normally walks alone at night but on missions he is accompanied by a group of elite rogues who ensure no witnesses or survivors are left. 
 
 ### Clan of Deranged Nightmares 
 
@@ -144,7 +146,7 @@ Led by Zelos Arentis, A man of sick and twisted faith in life. Deranged from a y
 
 ### Clan of the Shattered Bone
 
-Led by Mortimer Cerdic, a violent and brutal barbarian who ravaged the countryside in life for fun. The Tribe of Shattered Bone was known for its brutality and not even leaving a building standing in its wake. They would burn the building with you barricaded inside and slaughtered who ran out like a game. If you draw a sword in their presence they will begin to attack. Raising your voice at them will draw their attention to you. Mortimier likes to collect the heads of his victims, specifically the leaders or nobility in places they have conquered. Accompanied by an entourage of bloodthirsty savages who only wants your blood and heart.
+Led by Mortimer Cerdic, a violent and brutal barbarian who ravaged the countryside in life for fun. The Tribe of Shattered Bone was known for its brutality and not even leaving a building standing in its wake. They would burn the building with you barricaded inside and slaughtered who ran out like a game. If you draw a sword in their presence they attack. Raising your voice at them will draw their attention to you. Mortimier likes to collect the heads of his victims, specifically the leaders or nobility in places they have conquered. Accompanied by an entourage of bloodthirsty savages who only wants your blood and heart.
 
 *~ V*
 
