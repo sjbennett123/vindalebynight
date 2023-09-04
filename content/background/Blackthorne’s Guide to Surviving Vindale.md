@@ -64,7 +64,7 @@ Another interesting note for outsiders is the Hoylean Library. About 15 years ag
 
 *~ E*
 
-## The Local Nobility of Vindale & Other People of Note
+## The Local Nobility of Vindale
 
 The local nobility, if you want to call it that, is that of a collection of people who run the day to day in Vindale proper. They don't seem to be bad folk, they do their jobs well, but it seems like something is kind of off with them. The citizens of Vindale respect them so we have not felt the need to remove them yet, but there might be something deeper we need to understand before we move upon the local “Court” These positions mimic the Vampire Courts of old in Vindale but they were elected titles. Strange if you ask me, but the people of Vindale are superstitious as it is, something to do with paying heed to the past while moving into a new age. While they call themselves Princes and such, their titles are as stable as a drunkard's legs when it comes to holding up to the proper nobility. They might as well be pretty titles for children playing a game of nobility.
 
@@ -88,6 +88,8 @@ The local nobility, if you want to call it that, is that of a collection of peop
 
 **Nekrous, the Black Hand of Vindale**, a Dark Goblin who deals specifically in secrets, rumors and rare lore, everything comes at a cost with him but his payment is unconventional.
 
+## Other Residents of  Vindale
+
 As for the other “Commoners” who are unique in the town of Vindale, which is a large statement, there are two that stand out in my eyes as both useful and ones you should be careful with when you deal with them.
 
 **Old Jarod, the Crazed Hermit**: Rumored to be once a powerful Celestial magician, his heart was shattered by a dead lover. He will tell you tales and talk till your ears fall off, but his stories are absolutely maddening. His speech patterns are odd and otherworldly for a supposedly educated person. Possibly the most disturbing part about Old Jarod is the ritual he makes you perform when you ask for his help.  But that is for you to experience on your own. 
@@ -110,7 +112,7 @@ Vindale once lived in peace from Vampire threat many years ago but under a blood
 
 **House of Feral Howls**: Traditional Vampire stereotypes of animalistic claws and deformed visages, control over the creatures of the night and woods
 
-### **The 3 Clans of Vampire Commoners **
+### The 3 Clans of Vampire Commoners 
 
 **Serve the Noble Houses of Vindale.**
 

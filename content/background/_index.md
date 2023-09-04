@@ -5,6 +5,14 @@ title: "Background"
 weight: 2
 ---
 
+
+
+[https://vindalebynight.netlify.app/background/blackthornes-guide-to-surviving-vindale/](https://vindalebynight.netlify.app/background/blackthornes-guide-to-surviving-vindale/)
+
+
+
+
+
 ## The Vampire Clans
 
 3 Clans of Vampire Nobilty rule Vindale Keep and the surrounding villages:
