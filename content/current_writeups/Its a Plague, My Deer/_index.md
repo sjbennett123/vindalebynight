@@ -28,7 +28,7 @@ outcomes:
 
 
 number_of_cast_members: all
-Roles: Dire Chaos Deer, Dire Chaos Rats, Dire Chaos Wolf,
+Roles: Dire Chaos Deer, Dire Chaos Rats, Dire Chaos Wolf, speaker, sound effect- wolf howl and rat squeak
 
 props: green rope lights, blue rope lights, yellow/white rope lights, treasure chest, PVC poles with hook
 makeup: 

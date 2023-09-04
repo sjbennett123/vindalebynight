@@ -26,7 +26,7 @@ outcomes: Dire Chaos Rats invade the town with the goal of infecting as many peo
 number_of_cast_members: Flexible 
 Roles: Dire Chaos Rats
 
-props: 
+props: speaker, sound effects- rat squeaks
 makeup: Dire Chaos Rats- Rat Mask with green markings, green sash 
 treasure: 1 gold per rat
 magic_items:

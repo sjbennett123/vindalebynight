@@ -25,7 +25,7 @@ synopsis: |
 outcomes: The vines are pulled up and burned
 
 number_of_cast_members: all
-Roles: Blood tainted rat, blood spider, Dire Blood Tainted Rat, Dire Blood Spider, Blood Root
+Roles: Blood tainted rat, blood spider, Dire Blood Tainted Rat, Dire Blood Spider, Blood Root, speaker, sound effect-rat squeaks
 
 props: streamers, tape, 12 wine boxes with wine stains, descriptive notes in each box, fake torches
 makeup: red-out

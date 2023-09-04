@@ -28,7 +28,7 @@ outcomes:
 number_of_cast_members: all
 Roles: Velray Fisttoe- Owner and proprietor of the Half Pony Inn (optional), Dire Chaos Rats (approximately 30 spawns)
 
-props: sound effects- screaming and rat squeaks
+props: speaker, sound effects- screaming and rat squeaks
 makeup: Dire Chaos Rats- Rat masks with green markings, green sash
 treasure: 1 gold per rat spawn
 magic_items:
