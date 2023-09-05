@@ -42,7 +42,7 @@ outcomes:
 number_of_cast_members: 1
 Roles: Thegreth Feseldu- Unknowing Marked Tarrasch Pawn
 
-props: horse figure
+props: wood horse figure
 makeup: 
 treasure: 
 magic_items:
