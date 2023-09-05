@@ -27,7 +27,7 @@ synopsis: |
 outcomes: The PCs track the Tarrasch assassins to their camp 
 
 number_of_cast_members: all
-Roles: Zal Crowgem- Vindale City Guard Tracker (optional), Off screen and ready- The rest, Tarrasch Black Pawns
+Roles: Zal Crowgem- Vindale City Guard Tracker (optional), Off screen and ready- The rest, Tarrasch Black Pawns Fighters
 
 props: colored squares of paper, stapler, staples
 makeup: 
