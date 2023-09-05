@@ -158,6 +158,19 @@ Mortimier likes to collect the heads of his victims, specifically the leaders or
 
 *~ B*
 
+## Laws of Vindale
+
+- Nobility may enter into a home or dwelling as they wish. You may be asked to prove you are nobility by writ or house crest on display. First offense is a 50 Gold fine, second offense is loss of land rights in Vindale. 
+     
+- No Wards are to be cast inside the city walls of Vindale. Any nobility must have access to enter and leave all buildings freely within Vindale. 
+    - They will destroy your Wards while you sleep.First offense is a warning and destruction of your Ward, second might as well be death but could be worse. Don’t test them twice. 
+- Do not kill any birds within the city walls of Vindale. First offense is a 30 Gold fine, second offense is public execution.
+    - It is illegal and a very bad omen for your soul. 
+- Destruction of plant life, pumpkin patches, or Vineyards is prohibited. First offense is a 50 GP fine, second offense is public execution.
+    
+- Consorting with the Bloody Fist Orcs is punishable by death.
+    - There is no excuse for this. The local nobility strictly enforce this. For proof walk the road into town and look for the impaled heads.
+
 ## The Harvester of Sorrows
 
 *~ E*
