@@ -16,34 +16,9 @@ synopsis: Shortly after the adventurers reach the City of Vindale and enter the 
 outcomes: 
 
 
-number_of_cast_members: 
-Roles: Wolves of the Feral Hunt and Bats of Sanguine Reaping
+number_of_cast_members: All
 
-props: 
-makeup: 
-treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
 
-rumors: 
-
-hook: 
-scenes: 
-  - 
-    oog: 
-    ig: 
-    flee_point: 
-
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
 
 
 ---

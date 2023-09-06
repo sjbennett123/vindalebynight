@@ -2,7 +2,7 @@
 title: It's a Plague, My Deer
 Layout: module
 
-author: 
+author: Brittany Perrry
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
@@ -13,8 +13,7 @@ requirements: End of Contagion plot desired
 
 description: A black deer with glowing green antlers has been spotted near the town. It acts like it wants someone to follow it. When followed, the deer leads them right to the source of the plague.
 
-synopsis: |
-  Scene set up- A three stranded circle of rope lights in green, blue, and yellow/white. It needs to be a big enough circle that people have trouble getting to the center quickly. Only one rope light will be lit at a time. The marshal is responsible for turning it on and off.
+synopsis: >
   
   A black deer with glowing green antlers comes to the town. It isn't there to attack anyone or anything of the sort. It's there to get people to follow it. It is under instruction from On Brighthelm, the beastmaster responsible for the rats and the sickness running through the town, to go to town and retrieve as many people as possible.  
   
@@ -28,18 +27,16 @@ outcomes:
 
 
 number_of_cast_members: all
-Roles: Dire Chaos Deer, Dire Chaos Rats, Dire Chaos Wolf, speaker, sound effect- wolf howl and rat squeak
-
-props: green rope lights, blue rope lights, yellow/white rope lights, treasure chest, PVC poles with hook
+props: 
+  - green rope lights
+  - blue rope lights
+  - yellow/white rope lights
+  - treasure chest
+  - PVC poles with hook
+  - speaker sound effect wolf howl and rat squeak
 makeup: 
 treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
+
 
 rumors: 
 
@@ -50,7 +47,8 @@ scenes:
     ig: tavern
     flee_point: none
   - 
-    oog: mod shack/outside
+    oog: mod shack/outside.   Scene set up- A three stranded circle of rope lights in green, blue, and yellow/white. It big enough circle that people have trouble getting to the center quickly. Only one rope light will be lit at a time. The marshal is responsible for turning it on and off.
+
     ig: big tainted well
     flee_point: none
 
