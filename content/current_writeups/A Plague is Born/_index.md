@@ -7,7 +7,7 @@ reviewer:
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: saturday early afternoon
-weight: 
+weight: 1
 plotline: Contagion 
 requirements: A Wandering Plague ran
 
