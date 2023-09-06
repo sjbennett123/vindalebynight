@@ -1,7 +1,7 @@
 ---
 title: Amor E Morte
 Layout: module
-
+draft: true
 author: 
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"

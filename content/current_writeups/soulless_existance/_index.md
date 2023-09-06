@@ -1,9 +1,10 @@
 ---
 
 Layout: plotline_overview
-title: Soulless Existance
+title: Soulless Existence
 author: Chris Colland with Scott Bennett
-description: 
+
+
 ---
 
 

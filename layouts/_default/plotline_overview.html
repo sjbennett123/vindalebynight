@@ -22,4 +22,24 @@
 {{- range $index, $value := where .Pages ".Params.Layout" "==" nil -}} 
 {{- if (ne $index 0) }}, {{ end -}}<a href="{{.Permalink}}">{{- .Title -}}</a>{{- end -}}</p></div>
 {{- end -}}
-{{ partial "footer.html" . }}
+
+<p><b>Modules:</b>
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
+{{ $schedules := (slice "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms" nil) }}
+{{ $plotline_modules := (slice ) }}
+{{ $current_plotline := .Params.Title }}
+
+
+{{ range  $schedules }}
+{{ $current_schedule := . }} 
+
+{{ if sort (where (where $event_pages "Layout" "==" "module" ) ".Params.schedule" "=="  $current_schedule ) "Params.weight" -}}
+
+{{ range (where (where (where $event_pages "Layout" "=="  "module" ) ".Params.schedule" "=="  $current_schedule ) ".Params.plotline" "=="  $current_plotline) -}}
+      <p>{{ $current_schedule | title }} <a href="{{- .Permalink -}}"><b> {{ title .Title }}</b></a> {{ .Params.description -}} 
+  {{- end -}}
+    
+{{ end }}
+{{ end }}
+
+    {{ partial "footer.html" . }}
