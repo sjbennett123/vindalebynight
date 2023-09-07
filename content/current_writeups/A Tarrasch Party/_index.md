@@ -19,11 +19,11 @@ synopsis: |
   
   A messenger hired by a local vampire family has been tasked to deliver an invitation to a targeted adventuring group. These adventurers need to have prior contact with the Tarrasch and the Bishop from the Tarrasch Plotline of Stonewood. 
   
-  The note reads "You have been cordially invited to the residence of the Crinamorte. Please present yourself there at your earliest convenience." Then signed in a flowing signature "Alderik Crinamorte"
+  The note reads "We wish to discuss with you a possible alliance match-up. We, how shall we say, share a common interest. Please come at your earliest convenience, as time is short as the festival nears. I am also an avid lover of chess and would love a spirited game, if you will so oblige. I find discussing important matters over chess to be quite productive." Then signed in a flowing signature "Alderik Crinamorte" In the tail of the 'E' or somewhere close to the end, is a small, simple drawing of a Rook.
   
-  Once the invitation has been delivered, and the group can then make their way to the home of the Crinamorte Vampire Clan. They are not an old clan, but have been in the region long enough to have established winery. They are liked in Vindale. Therefore, there isn't any other information available on them. 
+  Once the invitation has been delivered, and the group can then make their way to the home of the Crinamorte Vampire Clan. They are not an old clan, but have been in the region long enough to have established winery. They are liked in Vindale. They own a small, but wildly successful vineyard in the area, and employ many people of all races. They are more tolerant of the living than most vampires, and this has made them mildly unpopular with the local clans. They aren't apart of the politics of the area.    
   
-  When the adventuring group gets there (the guard NPCs preferably need to be around the corner, out of sight), they find the door open and the bodies of both on the floor. Clutched in the hand of one of the bodies is a piece of paper with the Tarrasch symbol.  The PCs are given 30-45 seconds to examine the scene after the paper is found, before the Vindale Guard shows up (on signal from the mod marshal). When the guards show up, the group is striped of weapons and arrested. "Restraints" are placed on their wrists (figure 8 loops that can be grasped or big enough to safely rep) 
+  When the adventuring group gets there (the guard NPCs preferably need to be around the corner, out of sight), they find the door open and the bodies of both on the floor. The scene is a blood bath, and the room is destroyed. Clutched in the hand of one of the bodies is a piece of paper with the Tarrasch symbol.  The PCs are given 30-45 seconds to examine the scene after the paper is found, before the Vindale Guard shows up (on signal from the mod marshal). When the guards show up, they will confront the PCs. They will insist on the group dropping their weapons and spells forcefully. The group is then striped of weapons and arrested. "Restraints" are placed on their wrists (figure 8 loops that can be grasped or big enough to safely rep) 
   
   (If the adventurers mistakenly or purposely kill the guards/Captain Vintrel, a bigger, badder group will come and get them and the arrest will proceed as written.)
   
@@ -49,14 +49,14 @@ props: Box for confiscated goods/collateral, Tarrasch symbol note, circle of pow
 makeup: Dead vampire makeup, Live vampire makeup
 treasure: none
 
-hook: An invitation is delivered to a specific group of PCs
+hook: An invitation is delivered to a specific group of PCs (Clinton, Chris, and Bobby)
 scenes:
   -
-    oog: Unused cabin
+    oog: Mod Shack
     ig: Crinamorte Mansion
     flee_point: None
   -
-    oog: Unused cabin 2
+    oog: Mod Shack
     ig: Vindale Jail
     flee_point: None
 
