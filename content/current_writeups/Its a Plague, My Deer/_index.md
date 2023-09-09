@@ -4,57 +4,62 @@ Layout: module
 
 author: Brittany Perry
 reviewer: 
+# "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: saturday night
 weight: 
 plotline: Contagion
 requirements: End of Contagion plot desired
 
-description: A black deer with glowing green antlers delivers a message telling the players of a tainted well(the source of the Contagion). The players must purify the well. 
+description: A black deer with glowing purple antlers has been spotted near the town. It acts like it wants someone to follow it. When followed, the deer leads them right to the source of the plague.
 
-synopsis: |
+synopsis: >
+  Scene set up- There is an unreasonably large circle of lit rope lights. This circle represents the noxious cloud over the spring. In the center of the circle is a bucket. There is a line on the bucket indicating how much 'potion' needs to be delivered into the center of the spring. There is a smoke bomb behind the bucket. 
   
-  A black deer with glowing green antlers comes to the town. It isn't there to attack anyone or anything of the sort. It's there to get people to follow it. It is under instruction from On Brighthelm, the beastmaster responsible for the rats and the sickness running through the town, to go to town and retrieve as many people as possible.  
+  There is a possibility for mod failure.
   
-  When the deer brings the people back to the large spring, the deer runs away. They find a large spring lit green in the night. In the center of the spring, out of reach, is a treasure chest. This chest has a hook on the top of it. If anyone steps in this pool at anytime, they take 100 Elemental Chaos per second. 
+  A black deer with glowing purple antlers comes to the town. It isn't there to attack anyone, but to deliver a message and the spring antidote from Feihlen Brighthelm. It's also there to get people to follow it back to the well. 
+
+  When the deer brings the people back to the large spring, the deer runs away. The group find a large spring ringed in blue light. The very air is repugnant and if you cross the light you will take 100 Elemental Chaos per second. The spring is incredibly toxic and needs to be purified. It is a two part process, one is the PCs have to pour the potion given by the deer into the well, and the second is an actual purify well cantrip to complete the process. 
   
-  The spring is incredibly toxic (green ropelight is turned on) and needs to be purified. Purification is a two part process. 
-  
-  - **Purify Well Cantrip**: must be cast upon the well.
-  - **Pour a potion into the well**: to complete the process. The potion is in a puzzle box in the center of the circle. Laying around the pool are pieces of PVC. One has a hook on the end. The PCs must put together the hook, get the chest, open the puzzle, pour the potion into the pool, 
-    
-  When the PCs cast purify well or pour the potion into it, it will change the ropelight color to blue. When the last step is done, the rope light color will change to yellow/white, then go off. The well is then purified. The spring in town must be purified, and the plague will go away. 
+  Laying around the pool are pieces of PVC. One has a cup at the end. The PCs are meant to put together the pole and carefully pour the potion into the pool's center (into a bucket with a line indicating minimum amount of potion needed), and then cast purify well onto the spring. If the PCs are successful, the lights will go off.
+   
   
 outcomes: 
-  - The PCs purify the well, get attacked
+  - The PCs purify the well
   - The PCs don't purify the well, the plague continues 
 
 
 number_of_cast_members: all
+roles: Dire Stag
 props: 
-  - green rope lights
-  - blue rope lights
-  - yellow/white rope lights
-  - treasure chest
-  - PVC poles with hook
+  - 200' of rope light (blue)
+  - PVC poles (30ish feet, exact center of circle is 31.83 feet)
+  - PVC pole with cup
   - speaker sound effect wolf howl and rat squeak
-makeup: 
-treasure: 
+  - Blue Smoke Bomb
+  - Antidote
+makeup: blackout eyes, face
+treasure: 1 gold per animal
 
 
 rumors: 
 
-hook: Black deer with green antlers enticing others to follow it
+hook: Black deer with purple antlers with a note
 scenes: 
   - 
     oog: tavern
     ig: tavern
     flee_point: none
   - 
-    oog: outside. The spring is represented by a three stranded circle of rope lights (This is NOT a circle of power!) in green, blue, and yellow/white. The colors of the rope lights denote the toxicity of the Pool (green=very toxic, blue=pretty toxic, white=fine). Only one rope light will be lit at a time. The marshal is responsible for turning the strands on and off.
-    ig: big tainted spring about 20' wide
+    oog: outside in combat safe area  
+    ig: big tainted well
     flee_point: none
-non_standard_effects: Pool of green water will deal 100 Elemental Chaos per second for PCs
----
-has been spotted near the town. It acts like it wants someone to follow it. When followed, the deer leads them right to the source of the plague.
 
+
+non_standard_effects: Pool of blue light will deal 100 Elemental Damage per second. Antidote- Death Potion if drank
+rules_clarifications: 
+craftsman_information: 
+transformations: 
+running_notes: 
+---
