@@ -18,6 +18,10 @@ In the end, they all must die, but the night is powerful and endless, so we do w
 
 Vindale once lived in peace from Vampire threat many years ago, but under a blood moon 3 Siblings were taken from a noble family in exchange for a debt to be paid off. The 3 siblings were captured by a small band of Vampires- the 6 founders of the Houses and Clans of the future Court of Vindale.
 
+The Vindale vampires were a part of this land well before 
+
+Crinamorte Vampire Clan. They are not an old clan, but have been in the region long enough to have established winery. They are liked in Vindale. Therefore, there isn't any other information available on them. 
+
 ## A History of the Blackthorne Family
 
 We have walked in the darkness among Woodhaven for years now. However, our name has been lost to history through reasons that are hard to explain. We are not the lawless savage monster hunters people portray us as. We employ barbaric and cruel tactics, sure, but when you hunt creatures of the night and they show no mercy, so why should we when we hunt them? 
@@ -161,13 +165,13 @@ Mortimier likes to collect the heads of his victims, specifically the leaders or
 ## Laws of Vindale
 
 - Nobility may enter into a home or dwelling as they wish. You may be asked to prove you are nobility by writ or house crest on display. First offense is a 50 Gold fine, second offense is loss of land rights in Vindale. 
-     
+  
 - No Wards are to be cast inside the city walls of Vindale. Any nobility must have access to enter and leave all buildings freely within Vindale. 
     - They will destroy your Wards while you sleep.First offense is a warning and destruction of your Ward, second might as well be death but could be worse. Don’t test them twice. 
 - Do not kill any birds within the city walls of Vindale. First offense is a 30 Gold fine, second offense is public execution.
     - It is illegal and a very bad omen for your soul. 
 - Destruction of plant life, pumpkin patches, or Vineyards is prohibited. First offense is a 50 GP fine, second offense is public execution.
-    
+  
 - Consorting with the Bloody Fist Orcs is punishable by death.
     - There is no excuse for this. The local nobility strictly enforce this. For proof walk the road into town and look for the impaled heads.
 

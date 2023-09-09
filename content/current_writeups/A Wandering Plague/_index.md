@@ -11,7 +11,7 @@ weight:
 plotline: Contagion 
 requirements: 
 
-description: Sam Nekruv-Ratman, a wandering beggar, has entered Vindale in search of charity. 
+description: Sam Nekruv, a wandering beggar, has entered Vindale in search of charity. 
 
 synopsis: |
   A wandering beggar has come to Vindale, asking for charity. Sam, the beggar, 

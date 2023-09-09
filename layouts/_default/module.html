@@ -1,4 +1,5 @@
 {{ partial "header.html" . }}
+{{ $event_pages := where $.Site.Pages "Section" .Section }}
 
 <p><b>Written By:</b> {{ .Params.author -}}
 
@@ -11,7 +12,14 @@
 </div>
 {{- end -}}
 
-{{- if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> {{ .Params.plotline -}}</p></div>{{- end -}}
+{{ $current_plotline := .Params.plotline }}
+
+{{- if  .Params.plotline -}}<div id="plotline"> <p><b>Plotline:</b> 
+    {{ range (where  (where $event_pages "Layout" "=="  "plotline_overview" )  ".Params.title" "=="  $current_plotline) -}}
+<a href="{{- .Permalink -}}"><b> {{ title .Title }}</b></a> 
+{{ .Params.plotline -}}</p></div>{{- end -}}
+{{- end -}}
+
 
 <div id="brief"> <p><b>Brief:</b> {{ .Params.description -}}</p></div>
 {{- $requirements := (slice ) -}}

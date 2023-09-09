@@ -7,7 +7,7 @@ reviewer:
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: saturday early afternoon
-weight: 
+weight: 2
 plotline: Contagion
 requirements: Ran directly after "A Plague is Born"
 
@@ -31,15 +31,6 @@ Roles: Velray Fisttoe- Owner and proprietor of the Half Pony Inn (optional), Dir
 props: speaker, sound effects- screaming and rat squeaks
 makeup: Dire Chaos Rats- Rat masks with green markings, green sash
 treasure: 1 gold per rat spawn
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
-
-rumors: 
 
 hook: Screams coming from the Half Pony Inn
 scenes: 
