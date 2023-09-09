@@ -18,10 +18,6 @@ In the end, they all must die, but the night is powerful and endless, so we do w
 
 Vindale once lived in peace from Vampire threat many years ago, but under a blood moon 3 Siblings were taken from a noble family in exchange for a debt to be paid off. The 3 siblings were captured by a small band of Vampires- the 6 founders of the Houses and Clans of the future Court of Vindale.
 
-The Vindale vampires were a part of this land well before 
-
-Crinamorte Vampire Clan. They are not an old clan, but have been in the region long enough to have established winery. They are liked in Vindale. Therefore, there isn't any other information available on them. 
-
 ## A History of the Blackthorne Family
 
 We have walked in the darkness among Woodhaven for years now. However, our name has been lost to history through reasons that are hard to explain. We are not the lawless savage monster hunters people portray us as. We employ barbaric and cruel tactics, sure, but when you hunt creatures of the night and they show no mercy, so why should we when we hunt them? 
@@ -55,6 +51,10 @@ If an agent of the night finds this letter, know our numbers are as endless and 
 The city of Vindale is the pinnacle of Gothic beauty. There is not a more beautiful place at nighttime in all of Elysia, if it weren’t for all the damn Vampires. The city glows in a dark vibrant purple light from the torches and flowers growing there. A perpetual shadow looms over Vindal; even at high noon it is still overcast, like an autumn rain about to pour down. While the morning rays of sunlight lift the cool chill of night from the skin in Vindale, it is never without its dark charm and macabre.
 
 There is a large clocktower in the center of Vindale not far from the Burning Goblet Tavern. Though the clock keeper has not been seen in ages, the Clocktower of Vindale runs seamlessly without missing a second. 
+
+ The Half Pony Inn on the east side of town, in the warehouse district. Velray Fisttoe has been the owner for several decades, after the inn acquired the moniker "half pony". The sign at the inn is the front half and back half of a horse, having been damaged in a storm. The orgional name of the inn has been forgotten. Velray allows our people to stay if needed at a steep discount, and we keep an eye on things here and there. If a good card game and cheap ale is what you seek, the Half Pony can provide no better.
+
+ Near the center of the town is a spring. This spring, allegedly, was used to water the very first vines that were planted in Vindale. The spring has been out of commission for a long time. I didn't actually think they would ever get around to repairing it. But they did. And did one better. They made it so the spring gives the drinker a Cure Light Wounds potion once per day. We investigated the spring as soon as it opened, and found no evidence of tampering. Seems safe enough.
 
 It is common to see children wearing pumpkins and chasing each other about the streets of Vindale. The pumpkins that grow in Vindale are the best in the entire land. It is said to be an omen of good luck if you have large healthy pumpkins growing on your land. Black Lillies, Orchids, and Roses grow year round in Vindale. They grow with no rhyme or reason and without special care out of season, confusing botanists for ages. Depending on the moon phase, these flowers glow in the moonlight or lack thereof. Scholars say they have different magical properties with the turning of the seasons.
 
@@ -100,11 +100,19 @@ These positions mimic the Vampire Courts of old in Vindale, but they were electe
 
 ## Other Residents of Vindale
 
-As for the other “Commoners” who are unique in the town of Vindale, which is a quite a statement, there are two that stand out in my eyes as both useful and, ones you should be careful with when you deal with them.
+As for the other “Commoners” who are unique in the town of Vindale, which is a quite a statement, there are several that stand out in my eyes as both useful and, ones you should be careful with in your dealings.
 
 **Old Jarod, the Crazed Hermit**: Rumored to be once a powerful Celestial magician, his heart was shattered by a dead lover. He tells tales and talks until your ears fall off, but his stories are absolutely maddening. His speech patterns are odd and otherworldly for a supposedly educated person. Possibly the most disturbing part about Old Jarod is the ritual he makes you perform when you ask for his help. But that is for you to experience on your own. 
 
 **Grim, the Undertaker of Vindale**: Grim is the quiet type, his facial expressions and cold white eyes tell you more than his words normally. If he speaks to you, it is like he is there but someone else is speaking. Something about him terrifies me, but I don't know what it truly is about Grim that does it. He is a good person and has never harmed anyone unless they disturb his grave keeping routine. I once asked him a personal question. I woke up in a pumpkin patch, without clothes, covered in blood, wearing a pumpkin on my head without memories of the last few days. Never again will I ask him such a question. Either I experienced something I couldn't comprehend or that was his cruel and morbid sense of humor. Either way, don't offend him.
+
+**Feihlen Brighthelm**: Feihlen is new to the area. Feihlen has uncanny and possibly unnatural control over some of the local wildlife. He is a loud advocate for wildlife and animals, both benign and not, and resorts to extreme methodology to further his ideals. We keep a close eye on him and his animal cohorts.
+
+**Captain Dyinn Vintrel**: Operates a small jail house close to the Burning Goblet Tavern. Inside is a single, mostly bare, room, save a circle of power where they house any they arrest. Not many see the outside of this room again, except when transferred to the larger prison, or used as food, or both. Don't think just because it's daylight they are not watching. Captain Dyinn Vintrel has a whole host of traitors happy to trade in their lives and blood for the "privilege" of working for the clans.
+
+**Frank Grisk**: For some reason, he calls himself "the les Sangsues Abyssale". We haven't been able to find the reason for the odd name, and frankly don't care. Frank is someone who would sell his own mother for a gold and an intoxication potion, and I advise you watch your back, and your purse, when he is around.
+
+**Alderik and Eslendra Crinamorte**: Young for such beasts, a mere 75 years, they own and operate a vineyard that is known as one of the best. They claim they are sympathetic to the living, and in truth, we haven't found anything yet to contradict that. The other creatures of the night grow tired of their sympathies, and they know this. 
 
 *~ M*
 
