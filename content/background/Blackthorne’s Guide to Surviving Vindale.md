@@ -4,6 +4,8 @@ title: Blackthorne Family Guide to Surviving Vindale
 # https://commons.wikimedia.org/wiki/File:Maria_Catharina_Prestel_-_Chalice_Vine_-_1945.244_-_Cleveland_Museum_of_Art.tif
 ---
 
+## Foreword
+
 To whomever finds this book take heed. It may save your life.
 
 This collection of our family's history, local stories, creatures of and accounts of Vindale, is intended to keep you vigilant and knowledgeable of the horrors you may face in the city of Vindale. The Blackthorne Hunter Family have been among the woods of Vindale for 35 years now. Until recently our names were forgotten to the echoes of time itself, but this has been corrected with recent events.
@@ -20,7 +22,7 @@ Vindale once lived in peace from Vampire threat many years ago, but under a bloo
 
 ## A History of the Blackthorne Family
 
-We have walked in the darkness among Woodhaven for years now. However, our name has been lost to history through reasons that are hard to explain. We are not the lawless savage monster hunters people portray us as. We employ barbaric and cruel tactics, sure, but when you hunt creatures of the night and they show no mercy, so why should we when we hunt them? 
+We of the Blackthorne clan have walked in the darkness among Woodhaven for years now. However, our name has been lost to history through reasons that are hard to explain. We are not the lawless savage monster hunters people portray us as. While we employ barbaric and cruel tactics, when you hunt creatures of the night they show no mercy, so we shall not when we hunt them.
 
 We are banned from residing within city walls due to the violent nature of our profession. We live happily in wagon caravans and underground keeps for safety and mobility. You can approach our camps freely if you are free of evil taint or intention; our families magics repel creatures of the night at the edge of them. If you see blue flames burning a creature in the woods, know that they are evil and not welcome. The locals take solace knowing we lurk in the dark, as well as the creatures. You won’t see us walking openly in the city streets besides getting supplies, unless we are tracking a creature or someone we expect to hurt innocents. 
 
@@ -58,7 +60,7 @@ There is a large clocktower in the center of Vindale not far from the Burning Go
 
 It is common to see children wearing pumpkins and chasing each other about the streets of Vindale. The pumpkins that grow in Vindale are the best in the entire land. It is said to be an omen of good luck if you have large healthy pumpkins growing on your land. Black Lillies, Orchids, and Roses grow year round in Vindale. They grow with no rhyme or reason and without special care out of season, confusing botanists for ages. Depending on the moon phase, these flowers glow in the moonlight or lack thereof. Scholars say they have different magical properties with the turning of the seasons.
 
-Avian wildlife around Vindale is mainly condensed to vultures, crows, and ravens. This is the result of many generations of predator creatures and selection of the ruling families of Vindale. Killing these avian creatures is not only a bad omen, it is illegal, and a curse might befall you and your family if you do. 
+Avian wildlife around Vindale is mainly condensed to vultures, crows, and ravens. This is the result of many generations of predator creatures and selection of the ruling families of Vindale. Killing these avian creatures is not only a bad omen, it is illegal, and a curse might befall you and your family if you do.
 
 Bats are a symbol of protection and a watchful eye in Vindale. Though the Bats of Sanguine Reaping are servants of the House of Feral Howls, they are not typically hostile unless provoked or commanded to attack by the Courts. The more aggressive of the servants are the Wolves of the Feral Hunt. They typically are on missions from the Courts and do not like to be interfered with, also keep in mind you are dealing with a wolf. Finally, the most terrifying of the three, are the Gargoyles of Nights Stone. They are the true protectors of Vindale. The Vindale Watch does a good job at patrolling but the Nights Stone watchers can get to places and move unnaturally where humans cannot. Their resilience in battle is impressive. We have no proof of it, but they seem to be a creation of the House of Sanguinus Nocturna... seems like a move they would make.
 
@@ -74,7 +76,7 @@ Another interesting note for outsiders is the Hoylean Library. About 15 years ag
 
 ## The Local Nobility of Vindale
 
-The local nobility, if you want to call it that, is that of a collection of people who run the day to day in Vindale proper. They don't seem to be bad folk and do their jobs well, but it seems like something is off with them. The citizens of Vindale respect them so we have not felt the need to remove them yet, but there might be something deeper we need to understand before we move upon the local “Court” 
+The local nobility, if you want to call it that, is that of a collection of people who run the day to day in Vindale proper. They don't seem to be bad folk and do their jobs well, but it seems like something is off with them. The citizens of Vindale respect them so we have not felt the need to remove them yet, but there might be something deeper we need to understand before we move upon the local “Court”. 
 
 These positions mimic the Vampire Courts of old in Vindale, but they were elected titles. Strange if you ask me, but the people of Vindale are superstitious as it is. Something to do with paying heed to the past while moving into a new age. While they call themselves Princes and such, their titles are as stable as a drunkard's legs when it comes to holding up to the proper nobility. They might as well be pretty titles for children playing a game of nobility.
 
@@ -102,7 +104,7 @@ These positions mimic the Vampire Courts of old in Vindale, but they were electe
 
 As for the other “Commoners” who are unique in the town of Vindale, which is a quite a statement, there are several that stand out in my eyes as both useful and, ones you should be careful with in your dealings.
 
-**Old Jarod, the Crazed Hermit**: Rumored to be once a powerful Celestial magician, his heart was shattered by a dead lover. He tells tales and talks until your ears fall off, but his stories are absolutely maddening. His speech patterns are odd and otherworldly for a supposedly educated person. Possibly the most disturbing part about Old Jarod is the ritual he makes you perform when you ask for his help. But that is for you to experience on your own. 
+**Old Jarod, the Crazed Hermit**: Rumored to be once a powerful Celestial magician, his heart was shattered by a dead lover. He tells tales and talks until your ears fall off, but his stories are absolutely maddening. His speech patterns are odd and otherworldly for a supposedly educated person. Possibly the most disturbing part about Old Jarod is the ritual he makes you perform when you ask for his help. But that is for you to experience on your own.
 
 **Grim, the Undertaker of Vindale**: Grim is the quiet type, his facial expressions and cold white eyes tell you more than his words normally. If he speaks to you, it is like he is there but someone else is speaking. Something about him terrifies me, but I don't know what it truly is about Grim that does it. He is a good person and has never harmed anyone unless they disturb his grave keeping routine. I once asked him a personal question. I woke up in a pumpkin patch, without clothes, covered in blood, wearing a pumpkin on my head without memories of the last few days. Never again will I ask him such a question. Either I experienced something I couldn't comprehend or that was his cruel and morbid sense of humor. Either way, don't offend him.
 
@@ -112,21 +114,21 @@ As for the other “Commoners” who are unique in the town of Vindale, which is
 
 **Frank Grisk**: For some reason, he calls himself "the les Sangsues Abyssale". We haven't been able to find the reason for the odd name, and frankly don't care. Frank is someone who would sell his own mother for a gold and an intoxication potion, and I advise you watch your back, and your purse, when he is around.
 
-**Alderik and Eslendra Crinamorte**: Young for such beasts, a mere 75 years, they own and operate a vineyard that is known as one of the best. They claim they are sympathetic to the living, and in truth, we haven't found anything yet to contradict that. The other creatures of the night grow tired of their sympathies, and they know this. 
+**Alderik and Eslendra Crinamorte**: Young for such beasts, a mere 75 years, they own and operate a vineyard that is known as one of the best. They claim they are sympathetic to the living, and in truth, we haven't found anything yet to contradict that. The other creatures of the night grow tired of their sympathies, and they know this.
 
 *~ M*
 
 ## The Vampire Houses and Clans of the Vindale Courts
 
-### The 3 Houses of Vampire Nobilty 
+### The 3 Houses of Vampire Nobilty
 
 **Rule over Vindale Keep and the Surrounding Villages.**
 
-**House of Bloody Shadows**: Beautiful, powerful, shadow wielding warriors and dominant leaders, they are persuasive, diplomatic, but terrifying in battle with weaponry
+**House of Bloody Shadows**: Beautiful, powerful, shadow wielding warriors and dominant leaders, they are persuasive, diplomatic, but terrifying in battle with weaponry.
 
-**House of Sanguinus Nocturna**: Blood Sorcerers and Experimenters of Vampiric Alchemy and makers of Flesh abominations
+**House of Sanguinus Nocturna**: Blood Sorcerers and Experimenters of Vampiric Alchemy and makers of Flesh abominations.
 
-**House of Feral Howls**: Traditional Vampire stereotypes of animalistic claws and deformed visages, they have control over the creatures of the night and woods
+**House of Feral Howls**: Traditional Vampire stereotypes of animalistic claws and deformed visages, they have control over the creatures of the night and woods.
 
 ### The 3 Clans of Vampire Commoners 
 
@@ -152,7 +154,7 @@ Led by one known as “Ravenlord”. In life Samiel Walker was a humble farmer a
 
 ### Clan of Creeping Death 
 
-Led by Khaldun Amaranth. In life, Khaldun was a murderer and rogue to a deadly band of assassins. His throat was slit upon his embrace so he does not speak normally, his only means of communication is telepathy. He is cold and calculating. He does not make deals with his prey. He completes the contract at all costs. He will kill anyone who gets between him and his prey. He normally walks alone at night but on missions he is accompanied by a group of elite rogues who ensure no witnesses or survivors are left. 
+Led by Khaldun Amaranth. In life, Khaldun was a murderer and rogue to a deadly band of assassins. His throat was slit upon his embrace so he does not speak normally, his only means of communication is telepathy. He is cold and calculating. He does not make deals with his prey. He completes the contract at all costs. He will kill anyone who gets between him and his prey. He normally walks alone at night but on missions he is accompanied by a group of elite rogues who ensure no witnesses or survivors are left.
 
 ### Clan of Deranged Nightmares 
 
@@ -160,29 +162,21 @@ Led by Zelos Arentis, a man of sick and twisted faith in life. Deranged from a y
 
 ### Clan of the Shattered Bone
 
-Led by Mortimer Cerdic, a violent and brutal barbarian who ravaged the countryside in life for fun. The Tribe of Shattered Bone is known for its brutality and not even leaving a building standing in their wake. They would burn the building with victims barricaded inside and slaughter those who ran out like game. If you draw a sword in their presence they will attack. 
+Led by Mortimer Cerdic, a violent and brutal barbarian who ravaged the countryside in life for fun. The Tribe of Shattered Bone is known for its brutality and not even leaving a building standing in their wake. They would burn the building with victims barricaded inside and slaughter those who ran out like game. If you draw a sword in their presence they will attack.
 
 Mortimier likes to collect the heads of his victims, specifically the leaders or nobility in places they have conquered. Accompanied by an entourage of bloodthirsty savages who only wants your blood and heart.
 
 *~ V*
 
-## Vampire Habits and Signs of the Courts
-
-*~ B*
-
 ## Laws of Vindale
 
-- Nobility may enter into a home or dwelling as they wish. You may be asked to prove you are nobility by writ or house crest on display. First offense is a 50 Gold fine, second offense is loss of land rights in Vindale. 
+- Nobility may enter into a home or dwelling as they wish. You may be asked to prove you are nobility by writ or house crest on display. First offense is a 50 Gold fine, second offense is loss of land rights in Vindale.
   
 - No Wards are to be cast inside the city walls of Vindale. Any nobility must have access to enter and leave all buildings freely within Vindale. 
     - They will destroy your Wards while you sleep.First offense is a warning and destruction of your Ward, second might as well be death but could be worse. Don’t test them twice. 
 - Do not kill any birds within the city walls of Vindale. First offense is a 30 Gold fine, second offense is public execution.
-    - It is illegal and a very bad omen for your soul. 
+    - It is illegal and a very bad omen for your soul.
 - Destruction of plant life, pumpkin patches, or Vineyards is prohibited. First offense is a 50 GP fine, second offense is public execution.
   
 - Consorting with the Bloody Fist Orcs is punishable by death.
     - There is no excuse for this. The local nobility strictly enforce this. For proof walk the road into town and look for the impaled heads.
-
-## The Harvester of Sorrows
-
-*~ E*
