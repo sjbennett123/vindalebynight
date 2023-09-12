@@ -15,7 +15,7 @@ description: Sam Nekruv, a wandering beggar, has entered Vindale in search of ch
 
 synopsis: |
   A wandering beggar has come to Vindale, asking for charity. 
-  Sam, the beggar, enters town at a slow walk to not aggravate the cough. He approches everyone, asking for coin or if they would like to hear a story for a coin. His stories are fanticiful and dramatic, and he won't say if they are true or not.n After he has gone around seeking charity.
+  Sam, the beggar, enters town at a slow walk to not aggravate the cough. He approaches everyone, asking for coin or if they would like to hear a story for a coin. His stories are fanciful and dramatic, and he won't say if they are true or not.n After he has gone around seeking charity.
 
   When the coughing gets to be too much (aka npc too hot, out of phlegm, no one engaging anymore) the beggar will leave the area.
    
