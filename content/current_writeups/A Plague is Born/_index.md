@@ -15,12 +15,10 @@ description: A random person brings a note into town, looking for friends of Sam
 
 synopsis: |
   A person, Oh Aom, was passing by and was given a gold to deliver a note to the friends of Sam Nekruv in town, at the tavern. The deliverer, Oh Aom, seems sleazy, he just gives off those vibes. When/if asked for directions, he counters with an offer of the directions for a Platinum, two Platinum and he'll take them there, but he says he is willing to negotiate for less. He will cave if threatened or roughed up. If the PCs show up at the Mod Shack without directions, they will be instructed to find directions and come back. Oh will not go out of game until the directions are given or he takes them there.
-  
-  Directions- Sam Nekruv is staying in the storehouse at the back of the Half Pony Inn, east of the tavern, in the warehouse district. 
 
   (ALTERNATE IF NO ONE BEFRIENDS SAM IN A WANDERING PLAGUE- A letter is delivered to the adventurers from the city of Vindale, requesting the adventurers look into a beggar in the warehouse district that was seen wandering around town. They are asked to investigate the beggar and see if a cure for his sickness can be found, or "another alternative sought if no cure is found". 
 
-  Once the adventurers show up at the Inn, if they choose to enter the inn first, they will find it dimly lit, full of smoke from both the patron's pipes and a faulty fireplace, and smelling sour. The innkeeper will approach and flirt, regretfully inform them that the inn is full, asking what these young adventurers are doing in this part of town. The innkeeper will freely admit to letting a sick man stay in their storehouse for free because they felt bad for him. He has been there for about a week. They noticed that he was coughing up bile a few days ago. They will say that the storehouse is unlocked if the adventurers wish to go back there and they are free to do so. 
+  Once the adventurers show up at the Inn, if they choose to enter the inn first, they will find it dimly lit, full of smoke from both the patron's pipes and a faulty fireplace, and smelling sour. The innkeeper will freely admit to letting a sick man stay in their storehouse for free because they felt bad for him. They will say that the storehouse is unlocked if the adventurers wish to go back there and they are free to do so. 
 
   When the adventurers chose to enter the storehouse, it is very hazy. The smell of infection is apparent to all that can smell the haze (i.e, you smell the fog, you smell the infection). If there happens to be a Scavenger in the group, they will almost be driven from the area by the smell of infection. The adventurers will be greeted by a coughing Sam at the very back of the storehouse (NPCs are outside the side door).
   
@@ -59,7 +57,7 @@ non_standard_effects:
 rules_clarifications: 
 craftsman_information: Scavenger- The smell of infection is heavy in the air. It almost drives you from the room. (the infection is represented by the hazy smoke.)
 transformations: 
-running_notes: Infection- is done just as a Killing Blow, with a count of “I infect you 1, I infect you 2, I infect you 3.” 
+running_notes: Infection- is done just as a Killing Blow, with a count of “I infect you 1, I infect you 2, I infect you 3.” Directions- Sam Nekruv is staying in the storehouse at the back of the Half Pony Inn, east of the tavern, in the warehouse district. 
 
 
 ---
