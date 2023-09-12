@@ -1,11 +1,11 @@
 ---
-title: Sam Nekrov- Ratman
+title: Sam Nekrov
 
 description: A deathly pale person, wearing heavy cloaks. Smells of infection.
 Layout: role
 
-introduction: You are a vagabond, and have been all over the land. You make your living begging and taking odd jobs in your travels. You had a family once upon a time, but you left them because you were convinced you were bad for them. You have a daughter that you left in Brunn, but you won't speak on it any more than that. You are happy to trade your traveling stories for coin, whether the stories are true or not, you won't say. Your stories are dramatic and fanciful, and border on absurd.  You have never been an adventurer, but would like to if you ever get the money together for supplies. You have a nasty severe cough that developed several weeks ago, and have traveled with it. It got worse as you neared Vindale, and by the time you got to the city, you were coughing up green phlegm. You are friendly and fun to talk to, despite your gross cough.
-motivation: Panhandling
+introduction: You've gotten sicker and now you've sent word to those you met. You are sat at the very back of the storehouse of the Half Pony Inn. You will tell them to stay back in between coughs. You will be adamant that the PCs stay away, and will become agitated if approached. You will say that you want to dictate a letter to your daughter. You say that you don't have long, you can't breathe and you know there isn't any hope at this point. Nothing will change your mind, and you will insist between coughs that they need to send the letter. You can say that if you somehow survive, you will go see your daughter. You will become an adventurer like them. You will cough and wheeze and insist on the letter untill they agree.
+motivation: dictate a letter
 tactics: friendly but pitiful
 movement: slow, it's hard to move and breathe
 speech: slow, wheezy, with fits of coughing
@@ -20,7 +20,7 @@ killing_blow:
 
 costuming: heavy cloaks
 makeup: pale, heavy eye bruises
-props: flask (containing phlegm)
+props:
 
 reset: no
 ---

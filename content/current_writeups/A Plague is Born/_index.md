@@ -31,7 +31,7 @@ synopsis: |
 outcomes: Sam explodes into Dire Chaos Rats, unleashing a plague upon the land.
 
 number_of_cast_members: All 
-Roles: Oh Aom- letter deliverer, Sam Nekruv- Ratman, Velray Fisttoe- Owner and proprietor of the Half Pony Inn, Dire Chaos Rats (approx 30 spawns)
+Roles: Oh Aom, Sam Nekrov, Velray Fisttoe, Dire Chaos Rat (approx 30 spawns)
 
 props: green smoke bomb, smoke machine, fog juice, note from Sam Nekruv, Letter from Vindale City (Alternate),speaker, Sound Effect- Rats squeaking
 makeup: Sam- pale face with dark eye bruises Rats- Rat mask with green markings, black tabard with green sash
