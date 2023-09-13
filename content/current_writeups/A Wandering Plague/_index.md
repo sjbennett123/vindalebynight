@@ -25,7 +25,7 @@ outcomes:
 
 number_of_cast_members: 1
 Roles: Sam Nekruv
-
+props: phlegm container, green stained handkerchief 
 
 makeup: Pale, heavy eye bruises
 
