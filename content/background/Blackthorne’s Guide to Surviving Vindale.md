@@ -150,7 +150,7 @@ Led by Lord Magnus Erebus, a powerful magic scholar who devoted his studies in l
 
 ### House of Feral Howls
 
-Led by one known as “Ravenlord”. In life Samiel Walker was a humble farmer and hunter for his king with an affinity for wild animals. When he was embraced to the night, he was left for dead in the forest by his sire. The only creatures to hear his cries for help were an unkindness of ravens in the Vindale woods. They came and drank of his blood and became empowered by the essence of darkness itself. They carried him to safety where Sameul began his undeath in a cavern. Over time he mastered the power of the corrupted animals of Vindale’s wilderness. He is always accompanied by a swarm of humanoid Ravens who viciously defend him and attack on his command.
+Led by one known as “Ravenlord”. In life Samiel Walker was a humble farmer and hunter for his king with an affinity for wild animals. When he was embraced to the night, he was left for dead in the forest by his sire. The only creatures to hear his cries for help were an unkindness of ravens in the Vindale woods. They came and drank of his blood and became empowered by the essence of darkness itself. They carried him to safety where Samiel began his undeath in a cavern. Over time he mastered the power of the corrupted animals of Vindale’s wilderness. He is always accompanied by a swarm of humanoid Ravens who viciously defend him and attack on his command.
 
 ### Clan of Creeping Death 
 
