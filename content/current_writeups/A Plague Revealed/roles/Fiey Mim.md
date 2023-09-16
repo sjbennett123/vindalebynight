@@ -19,7 +19,7 @@ abilities:
 killing_blow: 
 
 costuming: 
-makeup:For A Plague Revealed- Green lotus prosthetic  
+makeup: For A Plague Revealed- Green lotus prosthetic  
 props:  
 
 reset:
