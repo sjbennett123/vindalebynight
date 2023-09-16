@@ -9,7 +9,7 @@ weight: 1
 plotline: Contagion 
 requirements: A Wandering Plague ran
 
-description: 
+description: Infection consumes Sam the wandering Begger and unleashes a horde of Giant Rats upon the Half Pony Inn.
 
 synopsis: |
   Oh Aom brings a note to the friends of Sam Nekruv. The note begs for them to come to the Half Pony Inn at once because his coughing is has gotten much worse. 
