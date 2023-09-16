@@ -1,0 +1,1 @@
+The sign at the inn is the front half and back half of a horse, having been damaged in a storm. 

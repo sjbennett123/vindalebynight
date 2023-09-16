@@ -23,7 +23,7 @@ outcomes: Sam explodes into Dire Chaos Rats, unleashing a plague upon the land.
 number_of_cast_members: 4-5
 Roles: Oh Aom, Sam Nekrov, Velray Fisttoe, Dire Chaos Rat (approx 30 spawns)
 
-props: green smoke bomb, smoke machine, fog juice, note from Sam Nekruv, Letter from Vindale City (Alternate),speaker, Sound Effect- Rats squeaking
+props: green smoke bomb, smoke machine, fog juice, note from Sam Nekruv, Letter from Vindale City (Alternate),speaker, Sound Effect- Rats squeaking, Half Pony Inn Sign
 makeup: Sam- pale face with dark eye bruises Rats- Rat mask with green markings, black tabard with green sash
 treasure: 1 gold per rat plus whatever the PCs gave Sam in A Wandering Plague (robe must be searched to retrieve)
 
