@@ -25,3 +25,15 @@ props:
 
 reset:
 ---
+
+  If a Rat downs a PC, they can bite and will infect them on the count of "I infect you one, I infect you two, I infect you three." The PC will then become Infected (see running notes).    
+
+
+
+  The Rats goal is to exit the storehouse and infect the nearby people, and secondly, fight and infect adventurers. They will take an erratic but steady route to the door, will attack if blocked or hindered, and exit. The NPCs are to go around the building, go out of game, and re-enter from the back door. They need to gather at the robe pile for everyone to respawn. They are to wait until all the NPCs are back at the robes and then count again (ONE I EXPLODE FROM THE CORPSE... in unison) Continue until there have approximately 30 spawns. The mod marshal needs to keep a rough count of how may rats escape. If more than 15 rats escape, the module "The Plague is Upon You" can be ran.
+
+
+
+Infection- is done just as a Killing Blow, with a count of “I infect you 1, I infect you 2, I infect you 3.” Directions- Sam Nekruv is staying in the storehouse at the back of the Half Pony Inn, east of the tavern, in the warehouse district. 
+
+(ONE I EXPLODE FROM THE CORPSE... in unison)
