@@ -25,13 +25,3 @@ props:
 reset:
 ---
 
-
-On Brighthelm has always had an affinity for animals and creatures of all kinds. And he knows more about the animals and creatures on Elysia better than anyone. He runs an organization advocating for better treatment off all creatures. 
-
-Publicly, On Brighthelm is a patron for animal welfare and creature awareness. He is a wealthy trader. He is vocal about how adventurers disrupt otherwise peaceful creatures, and how Market Days should be forgone, and trade routes put in their place. He is addiment that it is the adventurers who cause the chaos that is during and after Market Days, and they should be stopped (think PETA, and he's in charge). 
-
-Privately, On Brighthelm has spent his life seeking out prime specimens and studying them and experimenting on them. On has dissected almost every living creature on Elysia, has spliced species, has carried out experiments using chaos, void, and elemental magics on his creatures, and keeps a menagerie full of his experiments on his large, but well guarded, land. No one is allowed there, except by invitation. 
-
-On Brighthelm has ran some of the most heinous experiments on his living subjects. He has created flesh golems made from the corpses of his animal experiments, and uses these instead of humanoid helpers. He has tried to infuse all kinds of magic into the creatures, including void, chaos, elemental, dream, etc., all the while maintaining his good public image. 
-
-On found Sam Nekruv asking for coin or work, and offered a few gold if he would come to his house and assist him for the day. Sam, knowing the man's reputation, went with him. Once in the house, On bound Sam and preformed a transfusion and ritual on him, infecting Sam with rat blood and planting a seed of chaos within him. He gave Sam a forget-it-well potion, and dropped him off back where he came from. Sam Nekruv has no memory of this encounter.
