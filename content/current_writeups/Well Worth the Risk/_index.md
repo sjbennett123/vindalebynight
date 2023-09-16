@@ -11,13 +11,13 @@ weight:
 plotline: Contagion
 requirements: PC or NPC drinks from the well in town 
 
-description: The well in town has been spelled. Townspeople have been seen drinking from it to get the benefits. Under the benign exterior lurks the corruption of On Brighthelm, beastmaster and mage. 
+description: The well in town has been spelled. Townspeople have been seen drinking from it to get the benefits. Under the benign exterior lurks the corruption of Feihlen Brighthelm, beastmaster and mage. 
 
 synopsis: | 
-  There is a well nearish to the tavern that has been spelled. The well will give the drinker once a Cure Light Wounds and a Rat Repellent, but also has some unknown properties. Any who drink are 'tainted'. The rats will not bother, attack, or bite any who drank from the well. Sometime after drinking from the well, a green rash will start on the hands and work its way up the arms, and then to the neck and head. The spread can be fast or slow, but once you've drank from the well, the effect is inevitable. 
+  There is a well near the tavern that has been spelled. The well will give the drinker a Cure Light Wounds once and a Rat Repellent, but also has some unknown properties to PCs. Any who drink are 'tainted'. The rats will not bother, attack, or bite any who drank from the well. Sometime after drinking from the well, a green rash will start on the hands and work its way up the arms, and then to the neck and head. The spread can be fast or slow, but once you've drank from the well, the effect is inevitable. 
 
   There is a sign on the well that says:
-  'Well-come' to the newly restored Vindale Spring! This spring was found when the city was newly built and was essential in the cultivation of the first grape vines in the area. Enjoy this piece of history![next line] 
+  'Well-come' to the newly restored Vindale Spring! This spring was found when the city was newly built and was essential in the cultivation of the first grape vines in the area. Please, enjoy this piece of history and the healing properties it contains![next line] 
   OOG- Please do not actually drink from this spring! But if your character has 'drank from the spring' please stop by the Mod Shack for further instructions.
   
   The PCs that drink from the spring and want to participate in the plotline are directed to the mod shack. There, they will be told that if they want to proceed, at some point, you will need to wear a bit of makeup on the hands, neck, face, or arms. If they consent, they will be given a green bracelet that will need to be displayed for easy visual. This bracelet is OUT OF GAME and is marked as such. This allows the NPC rats to avoid the marked PCs and also allows Plot to apply green makeup to marked PCs. They will also be instructed to cough randomly once the green makeup goes on.

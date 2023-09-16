@@ -23,7 +23,7 @@ outcomes:
 number_of_cast_members: 3
 Roles: Fiey Mim- card gambler, Velray Fisttoe- Owner and proprietor of the Half Pony Inn, Colgelga Hillgem- traveler
 
-props: 
+props: phlegm container (optional)
 makeup: pox- Green wax prosthetic covered in small holes, (lotus flower like) on hands and face
 treasure: 
 magic_items:
