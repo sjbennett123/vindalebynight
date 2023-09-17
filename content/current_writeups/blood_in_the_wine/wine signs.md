@@ -1,12 +1,12 @@
 ---
-title: wine signs
+title: Wine Signs
 ---
 
-## wine sign 1
+## Wine Sign 1
 
 622 Abyssale Mélange Rouge
 
-## wine sign 2
+## Wine Sign 2
 
 This wine was generously donated by les Sangsues Abyssale, and is free throughout the length of the festival. 
 

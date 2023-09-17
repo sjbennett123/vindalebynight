@@ -1,6 +1,17 @@
-drink refiller
+---
+title: Drink Refiller
 
-refill that gatorade.
+Layout: role
 
-look for people with the wristbands but no makeup and give them the makeup and hte backstory. 
+introduction: 
+
+
+costuming: out of game headband
+
+---
+
+
+Refill the gatorade in the tavern. Minimize the burden on the tavern.
+
+Look for people with red wristbands but no makeup and give them the makeup detailed in Blood Wine Results. 
 

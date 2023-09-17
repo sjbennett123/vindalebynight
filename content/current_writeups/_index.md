@@ -13,6 +13,7 @@ event_date: "25-9-2023" # Day Month Year
 **Chris** 
 
 - Note for Death Magic for adepts. 
+- Report for everything went black
 
 **Brittany** 
 
