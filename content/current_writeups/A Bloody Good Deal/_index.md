@@ -21,15 +21,6 @@ number_of_cast_members: 1
 Roles: Les Sangsues Abyssale (aka Frank Grisk)
 
 props: approximately 10 random items in a treasure chest
-makeup: 
-treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
 
 rumors: 
 
