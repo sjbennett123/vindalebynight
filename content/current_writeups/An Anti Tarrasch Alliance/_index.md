@@ -1,6 +1,7 @@
 ---
 title: An Anti-Tarrasch Alliance, 5
 Layout: module
+draft: true
 
 author: Brittney Perry
 reviewer: 

@@ -1,6 +1,7 @@
 ---
 title: Proof is in the Tarrasch, 3 
 Layout: module
+draft: true
 
 author: Brittney Perry
 reviewer: 

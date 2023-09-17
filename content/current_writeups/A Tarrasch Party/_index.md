@@ -1,6 +1,7 @@
 ---
 title: A Tarrasch Party
 Layout: module
+draft: true
 
 author: Brittney Perry
 reviewer: 

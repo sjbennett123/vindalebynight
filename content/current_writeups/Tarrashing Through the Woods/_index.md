@@ -1,6 +1,7 @@
 ---
 title: Tarrasch-ing Through the Woods, 2
 Layout: module
+draft: true
 
 author: Brittney Perry
 reviewer: 

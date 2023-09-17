@@ -1,7 +1,7 @@
 ---
 title: What the Tarrasch?
 Layout: module
-
+draft: true
 author: Brittney Perry
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
