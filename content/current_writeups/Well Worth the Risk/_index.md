@@ -24,11 +24,7 @@ synopsis: |
   
   If they get a green bracelet, they will be asked if they are ok with cream based makeup being applied on the hands, neck, face, or arms. If they consent, they will be given a green bracelet that will need to be displayed for easy visual. This bracelet is OUT OF GAME and is marked as such. This allows the NPC rats to avoid the marked PCs and also allows Plot to apply green makeup to marked PCs. They will also be instructed to cough randomly once the green makeup goes on.
   
-  If someone who is Infected drinks from the well, they will not be affected by the well at all. They will not have to get a green bracelet.
-
-  If a detect magic is cast upon someone with a green bracelet, -insert rule accurate information here-.
-  
-  If someone casts detect magic on the well, -insert rule accurate information here-.
+  If someone who is Infected drinks from the well, they will not be affected by the well at all. They will not have to get a green bracelet.  If a detect magic is cast upon someone with a green bracelet or casts a detect magic on the well, it is detected. 
   
 outcomes: PCs and NPCs alike drink from the spring due to it's properties
 
