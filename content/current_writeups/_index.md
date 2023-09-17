@@ -16,7 +16,7 @@ event_date: "25-9-2023" # Day Month Year
 
 **Brittany** 
 
-- 
+- Write out the_goods_of_les_sangsues_abyssale for a bloody good deal
 
 **Scott** 
 

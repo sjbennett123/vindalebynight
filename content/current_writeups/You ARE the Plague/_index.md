@@ -4,7 +4,7 @@ Layout: module
 
 author: Brittney Perry, Chris Colland
 reviewer: 
-# "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
+
 
 schedule: reaction
 weight: 
@@ -21,17 +21,6 @@ number_of_cast_members: 0
 Roles: PC involvement
 
 props: green bracelets
-makeup: 
-treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
-
-rumors: 
 
 hook: Bitten PCs get others to drink from the spring
 scenes: 
@@ -41,10 +30,6 @@ scenes:
     flee_point: 
 
 non_standard_effects: The spring confers upon the drinker a Cure Light Wounds and a Rat Repellent
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
 
 
 ---

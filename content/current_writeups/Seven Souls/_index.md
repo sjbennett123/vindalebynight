@@ -52,7 +52,7 @@ Seven Souls
 
  
 
-**Written by: Chris Colland**        **Reviewed by:** [Name]
+
 
 
 
