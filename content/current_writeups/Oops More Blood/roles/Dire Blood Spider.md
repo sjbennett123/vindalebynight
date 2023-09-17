@@ -1,5 +1,5 @@
 ---
-title: Blood Spider
+title: Dire Blood Spider
 
 description: 
 Layout: role

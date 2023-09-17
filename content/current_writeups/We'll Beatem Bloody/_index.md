@@ -11,9 +11,9 @@ weight:
 plotline: Corpseflower
 requirements: Oops More Blood ran
 
-description: Whoops, the PCs are mad at the les Sangsues Abyssale. Not that they don't have several reasons.
+description: From the blood magic wine, to the affected roots, to selling them junk wares, the adventurers have a bone to pick with les Sangsues Abyssale. They can track him down in his house at his vineyard.
 
-synopsis: The PCs track down les Sangsues Abyssale down in house on his vineyard. He has much to answer for, and is a coward. He will not start a fight or fight back. He resurrects in town if he is killed. He will then flee the town.  
+synopsis: The PCs track down les Sangsues Abyssale down in house on his vineyard. He has much to answer for, and is a coward. He will not start a fight or fight back. He will deny any wrong doing, and maintain that you are just trying to make a living. He resurrects in town if he is killed. He will then flee the town.  
 
 outcomes: Abyssale is killed and/or ran out of town
 

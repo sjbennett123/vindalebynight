@@ -1,5 +1,5 @@
 ---
-title: Blood Spider
+title: Dire Blood Tainted Rat
 
 description: 
 Layout: role
