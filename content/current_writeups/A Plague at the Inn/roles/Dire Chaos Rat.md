@@ -25,3 +25,5 @@ props:
 
 reset:
 ---
+
+  If a Rat downs a PC, they can bite and infect them on the count of "I infect you one, I infect you two, I infect you three." The PC will then become Infected (see running notes). There needs to be approximately 30 Dire Chaos Rat spawns. These rats, unlike their just born counterparts, will target, attack, and infect every adventurer they can.

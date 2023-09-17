@@ -6,8 +6,8 @@ author: Brittney Perry, Chris Colland
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
-schedule: saturday
-weight: 
+schedule: saturday morning
+weight: 1
 plotline: Corpseflower
 requirements: 
 
@@ -18,24 +18,13 @@ synopsis: Les Sangsues Abyssale (aka Frank Grisk) is in town. He is there to see
 outcomes: Les Sangsues Abyssale comes to town, is reassuring, and sells his wares
 
 number_of_cast_members: 1
-Roles: Les Sangsues Abyssale (aka Frank Grisk)
 
 props: approximately 10 random items in a treasure chest
 
-rumors: 
+
 
 hook: Les Sangsues Abyssale comes to town
-scenes: 
-  - 
-    oog: 
-    ig: 
-    flee_point: 
 
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
 
 
 ---

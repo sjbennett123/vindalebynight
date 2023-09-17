@@ -23,21 +23,15 @@ props: phlegm container, green stained handkerchief
 
 makeup: Pale, heavy eye bruises
 
-
-rumors: 
-
 hook: A beggar comes to town, coughing and spitting green phlegm
 scenes: 
   - 
     oog: outside of tavern
     ig: tavern 
     flee_point: none
-
-non_standard_effects: 
 rules_clarifications: Nothing will effect the cough or be revealed (eg Dispel magic, detect magic, etc) 
 craftsman_information: Scavenger- Under the smell of beggar and road, you smell heavy infection. The phlegm smells the same. 
-transformations: 
-running_notes: 
+
 
 
 ---
