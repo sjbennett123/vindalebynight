@@ -8,7 +8,8 @@ disableNextPrev:  true
 
 {{% children %}}
 
-[Current Event]({{< ref "/current_writeups" >}})
+<p style="font-size:40px;"> <a href="/current_writeups" >🩸 Current Event 🩸</a>
+
 
 ## [<i class="fa fa-video"></i> Weekly Writer Check In - Google Hangouts <i class="fa fa-video"></i> ](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
