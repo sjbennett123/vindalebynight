@@ -16,7 +16,11 @@ defenses:
 weapons: any
 damage: 2 Normal
 magic: 
-abilities: Read/Write, First Aid, Healing Arts, Craftsmen Other: Tailoring x5
+abilities: 
+  - Read/Write
+  - First Aid
+  - Healing Arts
+  - Craftsmen Other Tailoring x5
 killing_blow: 
 
 costuming: 
