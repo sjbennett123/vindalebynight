@@ -52,16 +52,12 @@ running_notes:
 
 
 
-**If there are images in this attachment, they will not be displayed.**  [Download the original attachment](https://mail-attachment.googleusercontent.com/attachment/u/0/?view=att&th=18a764cc663ee3b5&attid=0.2&disp=attd&zw)
 
-Cursed To Die
-
-Cursed to Die
 
  
 
 **Written by: Chris Colland**        **Reviewed by:** [Name] 
- 
+
 **Brief**: A member of the Vindale Guard, Solen Oakblood, fight against the Vampires with his squadron and he was the lone survivor. He doesn’t know the Vampire who bit him, but he is now Cursed to Die 
 **Requirements:** What a Horrible Night to Have a Curse has been ran
 
@@ -106,29 +102,7 @@ Cursed to Die
 
 
 
-**Soren Oakblood, Vindale Guard**
 
-*You have served Vindale loyally for 5 years on its Guard, a retired adventurer turned local guardsman. This wasn’t your first encounter with Vampires, but it was certainly your last. Your family is almost non-existent at this point so you have not much left to live for but gold and wine.*
-
-Descriptive Phrase: Properly Repped
-
-Body: 70 (30 Armor)
-
-Defenses: Dodge x1, Resist Poison x3, Resist Sleep x3, Resist Charm x3, Resist Physical x1
-
-Magic: None
-
-Weapons: Sword
-
-Damage: 15 Magic
-
-Abilities: Slay/Parry x5
-
-Transform: Curse of Transformation Vampire
-
-Killing Blow Active: Only Monsters
-
-Motivations: You have been bitten and cursed to die; this is your final adventure. You want to go out on your terms, not the terms of another. A stake would be dying like a Vampire, all you want to do is see the Sunrise one last time to cleanse your soul for death.
 
  
 
@@ -152,31 +126,7 @@ Motivations: You have been bitten and cursed to die; this is your final adventur
 
  
 
-**Vampire Thrall**
 
-*You and your friends were granted Vampiric Strength through a Vampire you thought you could trust. Turns out you have just been pawns in a greater game of chess among Vampire aristocrats. Now you have been ordered to lure Vindale Guards into this manor house and slaughter them as much as you can to please your Master.*
-
-Descriptive Phrase: Pale Humanoid
-
-Body: 80
-
-Defenses: Dodge x2, Return x1, Half Damage from Lightning, Immune to Cold, Healed by Chaos and Healing, Double Damage by Fire
-
-Magic: Arcane Vampire Charm x2, Magic Fear x3, Magic Taint Blood x2, Magic Wither x2, 30 Elemental Ice x3, Magic Create Undead x3
-
-Weapons: Claws
-
-Damage: 15 Normal Disease
-
-Abilities: Slay/Parry x2, First Aid, Read/Write
-
-**SPECIAL ABILITY:** Can “Devour” on a 3 count and recover 40 body if they feast on a freshly “killed” enemy. This is not a killing blow effect and still be healed back up
-
-Transform: Curse of Transformation: Vampire Thrall
-
-Killing Blow Active: No, Leave them bleed out and feast on them
-
-Motivations: Lure the Guard of Vindale to their dooms, your Vampire master is actively working against Vindale. The Courts of Vindale wants it well defended and the people to feel safe, your master wants chaos and death.
 
  
 
@@ -192,31 +142,7 @@ Motivations: Lure the Guard of Vindale to their dooms, your Vampire master is ac
 
  
 
- 
 
-**Alryn (M) or Serith (F) (Vindale Guard)**
-
-*A local town guard in Vindale. Your loyalty is to the protection of Vindale and its citizens. You don’t know as much as people think about the happenings of Vindale; but that is for the best for your job and their safety*
-
-Descriptive Phrase: Properly Repped
-
-Body: 50 (30 Armor)
-
-Defenses: Dodge x1, Resist Poison x3, Resist Sleep x3, Resist Charm x3, Resist Physical x1
-
-Magic: Cure Light Wounds at Will, Illumination at Will
-
-Weapons: Sword
-
-Damage: 10 Silver
-
-Abilities: Slay/Parry x2, Physical Refit x1, Read/Write, First Aid, Healing Arts
-
-Transform: None
-
-Killing Blow Active: Only Monsters
-
-Motivations: Protection of Vindale and its Citizens
 
  
 

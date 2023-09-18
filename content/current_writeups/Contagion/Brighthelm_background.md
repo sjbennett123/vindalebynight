@@ -2,7 +2,7 @@
 title: Brighthelm_background
 ---
 
-Feihlen Brighthelm, a wealthy trader,  has always had an affinity for animals and creatures of all kinds. He knows about the animals and creatures on Elysia better than anyone. He runs an organization advocating for better treatment off all creatures. 
+Feihlen Brighthelm, a wealthy trader,  always had an affinity for animals and creatures of all kinds. He knows about the animals and creatures on Elysia better than anyone. He runs Humans for the Ethical Treatment Of Creatures or HETOC, an organization advocating for better treatment off all creatures. 
 
 Publicly, Feihlen Brighthelm is a patron for animal welfare and creature awareness. He is vocal about how adventurers disrupt otherwise peaceful creatures, and how Market Days should be forgone, and trade routes put in their place. He is addiment that it is the adventurers who cause the chaos that is during and after Market Days, and they should be stopped (think PETA, and he's in charge). 
 
