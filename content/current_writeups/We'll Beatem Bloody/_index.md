@@ -13,9 +13,14 @@ requirements: Oops More Blood ran
 
 description: From the blood magic wine, to the affected roots, to selling them junk wares, the adventurers have a bone to pick with les Sangsues Abyssale. They can track him down in his house at his vineyard.
 
-synopsis: The PCs track down les Sangsues Abyssale down in house on his vineyard. He has much to answer for, and is a coward. He will not start a fight or fight back. He will deny any wrong doing, and maintain that you are just trying to make a living. He resurrects in town if he is killed. He will then flee the town.  
+synopsis: |
+  
+  Les Sangsues Abyssale's incompetency in his scheams has led to the adventurers hunting him down. They find Abyssale at his home, just sitting down to a meager dinner sat on a wine crate. Empty wine crates fill his house. Abyssale instantly cowers when the adventurers arrive, begging for his life.   He will deny any wrong doing at first, and when confronted by evidence, will break down in tears. He was given the blood magic ritual for his wine by someone who promised he could undersell the vampires. The only name he knows is Vodrel. 
+  
+  He will sob that his livelihood is going up in flames. He lost his house, his vineyard, his potion enterprise, everything.  He will curse the vampires for their shrewdness and ability to make better wine. When the adventurers take him into custody, he will go willingly. If a good opportunity to escape happens, Abyssale will take it. If he dies, Abyssale will resurrect in town.
+   
 
-outcomes: Abyssale is killed and/or ran out of town
+outcomes: Abyssale is killed, captured, and/or ran out of town
 
 
 number_of_cast_members: 1
