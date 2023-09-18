@@ -15,7 +15,7 @@ description: From the blood magic wine, to the affected roots, to selling them j
 
 synopsis: |
   
-  Les Sangsues Abyssale's incompetency in his scheams has led to the adventurers hunting him down. They find Abyssale at his home, just sitting down to a meager dinner sat on a wine crate. Empty wine crates fill his house. Abyssale instantly cowers when the adventurers arrive, begging for his life.   He will deny any wrong doing at first, and when confronted by evidence, will break down in tears. He was given the blood magic ritual for his wine by someone who promised he could undersell the vampires. The only name he knows is Vodrel. 
+  Les Sangsues Abyssale's incompetency in his scheams has led to the adventurers hunting him down. They find Abyssale at his home, just sitting down to a meager dinner sat on a wine crate. Empty wine crates fill his house. Abyssale instantly cowers when the adventurers arrive, begging for his life.   He will deny any wrong doing at first, and when confronted by evidence, will break down in tears. Abbyssale was approached in an inn and talked into and sold the ritual for the blood magic by a man named Vodrel. He promisied Abbyssale could undersell the vampires. He then disappeared, and Abbyssale hasn't seen him again. 
   
   He will sob that his livelihood is going up in flames. He lost his house, his vineyard, his potion enterprise, everything.  He will curse the vampires for their shrewdness and ability to make better wine. When the adventurers take him into custody, he will go willingly. If a good opportunity to escape happens, Abyssale will take it. If he dies, Abyssale will resurrect in town.
    
