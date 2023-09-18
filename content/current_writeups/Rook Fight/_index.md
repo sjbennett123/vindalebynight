@@ -9,8 +9,7 @@ schedule: saturday
 weight: null
 plotline: The Tarrasch
 requirements: The Rook escapes in "Proof is in the Tarrasch"
-description: The adventurers go back for the tracker. They use the tracker to go
-  after Krath Stormwell, Tarrasch Rook.
+description: The adventurers go back for the tracker. They use the tracker to go after Krath Stormwell, Tarrasch Rook.
 synopsis: The Tarrasch Rook, Krath Stormwell, has escaped the fight, and is now
   on his own. He is in distress and is leaving a clear trail. If tracked, the
   trail will lead right to him. He is trying to flee Vindale and is caught

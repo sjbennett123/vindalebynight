@@ -5,11 +5,9 @@ Layout: module
 author: Brittney Perry, Chris Colland
 reviewer: Scott Bennett
 
-
 schedule: tavern setup
 
 plotline: Corpseflower
-
 
 description: A new drink is set up in the tavern. 
 

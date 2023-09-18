@@ -24,3 +24,5 @@ props:
 
 reset:
 ---
+
+  If a Rat downs anyone, they will infect them on the count of "I infect you one, I infect you two, I infect you three." The bitten will then become Infected (see running notes).

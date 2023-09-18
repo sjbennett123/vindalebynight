@@ -1,10 +1,10 @@
 ---
 title: Plague Upon the Well
 Layout: module
+draft: true
 
 author: Brittney Perry, Chris Colland
 reviewer: 
-# "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
 schedule: reaction
 weight: 
@@ -29,15 +29,7 @@ number_of_cast_members: None
 Roles: 
 
 props: well sign
-makeup: 
-treasure: 
-magic_items:
-  - 
-    name: 
-    description:  
-    duration: 
-    effects: 
-      - 
+
 
 rumors: 
 
@@ -48,11 +40,7 @@ scenes:
     ig: communal spring in town
     flee_point: none
 
-non_standard_effects: 
-rules_clarifications: 
-craftsman_information: 
-transformations: 
-running_notes: 
+
 
 
 ---
