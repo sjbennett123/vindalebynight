@@ -18,23 +18,15 @@
 
 {{- if .Params.event_date -}}
 <h2>Time Until Event</h2>
-<!--   <div class="wrapper">
-    <div class="countdown" data-date="{{- .Params.event_date -}}" data-time="09:00">
-      <div class="day"><span class="num"></span><span class="word"></span></div>
-      <div class="hour"><span class="num"></span><span class="word"></span></div>
-      <div class="min"><span class="num"></span><span class="word"></span></div>
-      <div class="sec"><span class="num"></span><span class="word"></span></div>
-    </div
-    
-  <script type="text/javascript" src="/countdown.js"></script>
-  <script type="text/javascript" src="/countdown_init.js"></script> -->
 
-  <p>Modules must be reviewed 2 Weeks before the event</p>
+<p><div id="days_till_event"></div><p>
+  <p>Modules must be reviewed 2 Weeks (14 days) before the event</p>
 {{- end -}} 
 <h2>NPC Counts</h2>
 
 <!-- todo pull these values from google sheets directly-->
 <p>We are following these steps <a href="/npc_recruiting">NPC Recruiting Tips</a>. We are tracking the NPC’s <a href="https://docs.google.com/spreadsheets/d/1qPlTTxmLeDLNY4oV24XtBvq1R2pDP24zN7uZtj_gsJk/edit#gid=0">in this list</a>. Current count is Staff: 8 Yes: 7 Maybe: 9 No: 10 . Remember to go over the details of <a href="/events/camps/camp_sequanota">Camp Sequanota</a>with them.</p>
+{{- if .Params.event_date -}}<p>For each Full time NPC on Friday we will need at least one module written and for Saturday we will need at least 4 modules written.</p>{{- end -}}
 
 {{ if (where $event_pages "Layout" "plotline_overview") }}
 <h2>Plotline Overview</h2>
@@ -42,7 +34,7 @@
       <p><a href="{{.Permalink}}"><b>{{ .Title }}</b></a> {{ .Params.description }} </p>
 {{- end -}}
 {{- end -}}
-{{- if .Params.event_date -}}<p>For each Full time NPC on Friday we will need at least one module written and for Saturday we will need at least 4 modules written.</p>{{- end -}}
+
 <p><h2>Modules To Run</h2></p>
 <p><b>{{- len (where $event_pages "Layout" "==" "module") -}}</b> Modules to run </p>
 {{ with .GetPage "./module_export" }}<p><a href="{{.Permalink}}">{{ .Title }}</a></p>{{ end }}
@@ -194,5 +186,15 @@
 
 <h2>Source Code</h2>
 <p><a href="{{ .Params.github_url | default "https://github.com/sjbennett123/polarlarp/tree/main/content/current_writeups" }}"><i class="fab fa-github"></i></a></p>
+{{- $event_date := .Params.event_date | time -}}
+10/29/2023
+<script>
+const timeElapsed = Date.now();
+const today = new Date(timeElapsed);
+const event_date = new Date('{{ $event_date.Format "01/02/2006" }}');
+const diffTime = Math.abs(today - event_date);
+const diffDays = Math.ceil(diffTime / (1000 * 60 * 60 * 24)); 
+document.getElementById("days_till_event").innerHTML =diffDays +" Days until Event" ;
+</script>
 
 {{- partial "footer.html" . -}}
