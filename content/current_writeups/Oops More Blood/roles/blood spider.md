@@ -4,11 +4,11 @@ title: Blood Spider
 description: Large gray spider with blood matted fur
 Layout: role
 
-introduction: 
-motivation: 
-tactics: 
-movement:
-speech:
+introduction: You have fed upon the rats that inhabit the wine chamber with you. This has turned you from a relitivly calm spider into a bloodthirsty, crazed spider.
+motivation: Kill Invaders
+tactics: none
+movement: quick and in spurts, like a wolf spider
+speech: none
 
 body: 40
 defenses: Dodge x2, Immune to Binding
