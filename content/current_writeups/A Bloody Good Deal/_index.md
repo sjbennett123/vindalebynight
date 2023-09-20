@@ -19,7 +19,7 @@ outcomes: Les Sangsues Abyssale comes to town, is reassuring, and sells his ware
 
 number_of_cast_members: 1
 
-props: approximately 10 random items in a treasure chest
+props: approximately 10 random items, 12 potions in a treasure chest
 
 
 

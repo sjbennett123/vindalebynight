@@ -28,11 +28,11 @@ outcomes:
   - The PCs lose the ability to burn the roots, they remain.  
 
 number_of_cast_members: all
-Roles: Blood tainted rat, blood spider, Dire Blood Tainted Rat, Dire Blood Spider, Blood Root, 
+Roles: Blood tainted rat, blood spider, Dire Blood Tainted Rat, Dire Blood Spider, Sanguine Root, 
 
 props: streamers, tape, 12 wine crates (36 regular wine, 12 blood wine) fake torches, speaker, sound effect-rat squeaks
 makeup: red-out
-treasure: 1 gold per regular rats and spiders, 2 gold for dire rats and spiders
+treasure: 1 gold per regular rats and spiders, 2 gold for dire rats and spiders, potions and components in crates
 
 hook: les Sangsues Abyssale comes to town asking for help
 scenes: 
@@ -49,7 +49,7 @@ non_standard_effects:
 rules_clarifications: 
 craftsman_information: Scavenger- The final antechamber smells of blood.
 transformations: 
-running_notes: 
+running_notes: instruct the PCs that the crates can be looked in and moved, that there may be treasure or goodies in the crates.
 
 
 ---

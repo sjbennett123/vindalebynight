@@ -17,6 +17,10 @@ synopsis: |
   Once the adventurers show up at the Inn. Velray Fisttoe, the innkeeper admits to letting a sick man stay in their storehouse for free because they felt bad for him. They will say that the storehouse is unlocked if the adventurers wish to go back there and they are free to do so. 
 
   In the Storehouse, the adventurers are greeted by Sam who is in back of the storehouse and coughing worse than was in town (NPCs for the Dire Rats are outside the side door). Sam begs for them to not get too close. He request that the players take down a letter to be delivered to his estranged Daughter Ruth, "Dear Ruth. I have not been the best (cough) father. But I want(cough) you (cough) (cough)". He then erupts in a fit of coughing. As he continuously coughs, a green smoke bomb is set off in front of him. Once the smoke is heavy enough, npcs enter though back door hidden by the smoke.  Sam collapses inside his robes with a shriek of pain, and Dire Chaos Rats emerge (ONE I EXPLODE FROM THE CORPSE... in unison) (Sound Effect- Rat squeaks after emerge)
+    
+  The Rats goal is to exit the storehouse and infect the nearby people. They will take an erratic but steady route to the door, will attack if blocked or hindered, and exit. The NPCs are to go around the building, go out of game, and re-enter from the back door. They need to gather at the robe pile for everyone to respawn. They are to wait until all the NPCs are back at the robes and then count again (ONE I EXPLODE FROM THE CORPSE... in unison) Continue until there have approximately 30 spawns. The mod marshal needs to keep a rough count of how may rats escape. If more than 15 rats escape, the module "The Plague is Upon You" can be ran.
+  
+  Infection- is done just as a Killing Blow, with a count of “I infect you 1, I infect you 2, I infect you 3.” 
 
 outcomes: Sam explodes into Dire Chaos Rats, unleashing a plague upon the land.
 

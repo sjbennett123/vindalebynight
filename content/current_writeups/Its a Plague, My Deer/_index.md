@@ -2,7 +2,7 @@
 title: It's a Plague, My Deer
 Layout: module
 
-author: Brittany Perry
+author: Brittney Perry
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
@@ -40,7 +40,7 @@ props:
   - Blue Smoke Bomb
   - Antidote
 makeup: blackout eyes, face
-treasure: 1 gold per animal
+treasure: 1 gold per animal, potions and components in crates
 
 
 rumors: 
@@ -63,3 +63,4 @@ craftsman_information:
 transformations: 
 running_notes: 
 ---
+smoke- announce and ok if smoke can be used
