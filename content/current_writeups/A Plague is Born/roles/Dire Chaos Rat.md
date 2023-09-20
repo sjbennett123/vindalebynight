@@ -20,7 +20,7 @@ abilities: Can 'Devour' and 'Infect'
 killing_blow: No
 
 costuming: black rat mask, black tabard with green sash
-makeup: green face markings
+makeup: blackout with green face markings
 props: Congratulations, you're Infected! cards
 
 reset: no
