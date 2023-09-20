@@ -11,6 +11,8 @@ disableNextPrev:  true
 <p style="font-size:40px;"> <a href="/current_writeups" >🩸 Current Event 🩸</a>
 
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0c204926-6870-4874-9656-c8f42c35082a/deploy-status)](https://app.netlify.com/sites/vindalebynight/deploys)
+
 ## [<i class="fa fa-video"></i> Weekly Writer Check In - Google Hangouts <i class="fa fa-video"></i> ](https://meet.google.com/iak-gnhk-ork?authuser=0&hs=122)
 
 - ↑ Up there is a link you can click on it! You can also go to [gloryforthefist.netlify.app/writersroom](https://gloryforthefist.netlify.app/writersroom)
