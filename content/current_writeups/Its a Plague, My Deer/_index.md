@@ -63,3 +63,4 @@ craftsman_information:
 transformations: 
 running_notes: 
 ---
+smoke- announce and ok if smoke can be used
