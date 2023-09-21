@@ -1,7 +1,7 @@
 ---
 title: Rodentia Pox
 ---
-Wear an out of game green bracelet that is visible to the Plot Team. If you are wearing a green bracelet, a plot member will ask about green makeup and if you wish to wear it.
+Wear an out of game green bracelet that is visible to the Plot Team. If you are wearing a green bracelet, a plot member will ask about green pox makeup and if you wish to wear it.
 
 You have been infected with Rodentia Pox. You must die and be lifed or resurrected for the Infection to be cured.
 
