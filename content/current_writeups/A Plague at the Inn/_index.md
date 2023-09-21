@@ -14,7 +14,7 @@ requirements: Ran directly after "A Plague is Born"
 description: When the adventurers leave the storehouse in A Plague is Born, they can hear screams coming from the inn next door. They can choose to investigate or not.
  
 synopsis: |
-  The Dire Chaos Rats have escaped and have invaded the inn next door to the storehouse. Screams of the patrons can be heard as soon as the adventurers exit the storehouse. This is round two with the rats. If Velray Fisttoe is used, they will be screaming for help when the adventurers exit the storehouse, and will thank the adventurers profusely after they clear out the rats from their inn.
+  The Dire Chaos Rats have escaped and have invaded the inn next door to the storehouse. Screams of the patrons can be heard as soon as the adventurers exit the storehouse. This is round two with the rats. The patrons and Velray will be screaming for help when the adventurers exit the storehouse, and will thank the adventurers profusely after they clear out the rats from the inn.
     
 outcomes: 
   - The PCs go for round two with the rats
@@ -22,7 +22,7 @@ outcomes:
 
 
 number_of_cast_members: all
-Roles: Velray Fisttoe- Owner and proprietor of the Half Pony Inn (optional), Dire Chaos Rats (approximately 30 spawns)
+Roles: Velray Fisttoe, Velray Fisttoe, Fiey Mim, Colgelga Hillgem, Dolthrum Coldheart, Dire Chaos Rats (approximately 30 spawns)
 
 props: speaker, sound effects- screaming and rat squeaks
 makeup: Dire Chaos Rats- Rat masks with green markings, green sash

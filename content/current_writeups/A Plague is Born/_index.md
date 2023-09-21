@@ -14,7 +14,7 @@ description: Infection consumes Sam the wandering Begger and unleashes a horde o
 synopsis: |
   Oh Aom brings a note to the friends of Sam Nekruv. The note begs for them to come to the Half Pony Inn at once because his coughing is has gotten much worse. 
 
-  Once the adventurers show up at the Inn. Velray Fisttoe, the innkeeper admits to letting a sick man stay in their storehouse for free because they felt bad for him. They will say that the storehouse is unlocked if the adventurers wish to go back there and they are free to do so. 
+  Once the adventurers show up at the Inn. Velray Fisttoe, the innkeeper admits to letting a sick man stay in their storehouse for free because they felt bad for him. They will say that the storehouse is unlocked if the adventurers wish to go back there and they are free to do so. There are patrons in the Inn playing cards.
 
   In the Storehouse, the adventurers are greeted by Sam who is in back of the storehouse and coughing worse than was in town (NPCs for the Dire Rats are outside the side door). Sam begs for them to not get too close. He request that the players take down a letter to be delivered to his estranged Daughter Ruth, "Dear Ruth. I have not been the best (cough) father. But I want(cough) you (cough) (cough)". He then erupts in a fit of coughing. As he continuously coughs, a green smoke bomb is set off in front of him. Once the smoke is heavy enough, npcs enter though back door hidden by the smoke.  Sam collapses inside his robes with a shriek of pain, and Dire Chaos Rats emerge (ONE I EXPLODE FROM THE CORPSE... in unison) (Sound Effect- Rat squeaks after emerge)
     
@@ -24,8 +24,8 @@ synopsis: |
 
 outcomes: Sam explodes into Dire Chaos Rats, unleashing a plague upon the land.
 
-number_of_cast_members: 4-5
-Roles: Oh Aom, Sam Nekrov, Velray Fisttoe, Dire Chaos Rat (approx 30 spawns)
+number_of_cast_members: all
+Roles: Oh Aom, Sam Nekrov, Velray Fisttoe, Fiey Mim, Colgelga Hillgem, Dolthrum Coldheart,  Dire Chaos Rat (approx 30 spawns)
 
 props: green smoke bomb, smoke machine, fog juice, note from Sam Nekruv, Letter from Vindale City (Alternate),speaker, Sound Effect- Rats squeaking, Half Pony Inn Sign
 makeup: Sam- pale face with dark eye bruises Rats- Rat mask with green markings, black tabard with green sash
