@@ -11,21 +11,17 @@ introduction: |
   This character is based off of the cliche of a smooth talking car salesman.
 
 motivation: To make money
+tactics: underhanded, liar, coward 
 
-tactics: underhanded, liar 
-movement:
-speech:
 
 body: 100
 defenses: shield magic
 weapons: short/long sword
 damage: 20 Silver
-magic: 
-abilities:
+magic: 5 block earth and 10 formal
 killing_blow: no
 
 costuming: outlandish and expensive
-makeup:
 props: treasure chest with trinkets
 
 reset: will resurrect
