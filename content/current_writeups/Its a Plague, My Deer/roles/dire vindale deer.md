@@ -11,12 +11,13 @@ speech: none
 
 body: 300
 defenses: shield magic, dodge, shield
-weapons: none
-killing_blow: able to disappear into the woods on a three count
+weapons: no
+abilities: able to dissapear into the woods on a three count
+killing_blow: no
 
-costuming: Black clothing, dire deer mask 
-makeup: eye black
-props: note from Feilen Brighthelm, antidote for well
+costuming: black clothing and tabard, dire deer mask
+makeup: black eyes
+props: Feilen Brighthelm note, antidote for spring
 
 reset: yes
 ---
