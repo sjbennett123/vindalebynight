@@ -22,7 +22,8 @@ synopsis: |
   - 2 Cure Serious Wounds
   - 3 Regenerate
   - 4 Purify Blood
-  - 5 - 10 Wear a green wristband. Rats no longer target you.
+  - 5 - 10 Rodentia Pox
+  . Wear a green wristband. Rats no longer target you. 
   
   If they get a green bracelet, they will be asked if they are ok with cream based makeup being applied on the hands, neck, face, or arms. If they consent, they will be given a green bracelet that will need to be displayed for easy visual. This bracelet is OUT OF GAME and is marked as such. This allows the NPC rats to avoid the marked PCs and also allows Plot to apply green makeup to marked PCs. They will also be instructed to cough randomly once the green makeup goes on.
   
