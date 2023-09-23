@@ -6,9 +6,9 @@ author: Chris Colland with Scott Bennett
 reviewer: 
 # "friday" "friday night" "saturday" "saturday morning" "saturday early afternoon" "saturday early evening" "saturday night" "reaction" "tavern setup" "townsfolk" "randoms"
 
-schedule: friday night
+schedule: saturday night
 weight: 
-plotline: Soulless Existance
+plotline: Soulless Existence
 requirements: 
 
 description:  Inside of the clocktower is an agent outside of time the Golems are hunting. 

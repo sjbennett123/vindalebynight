@@ -16,5 +16,5 @@ Horatio stole  "The Book of Invitations" , a magical book,  from the private lib
 Horatio realized that he was about to be overwhelmed and enacted a ritual to buy him time. He is hoping that one of his allies would arrive and rescue him. Sadly they are not aware that he is in this predicament so he is going to die in this clocktower This ritual slowed all of the time around him by consuming the time that was in his very heart. There are many ways to circumvent this ritual but none that the clockwork golems could manage. 
 
 - One could use a Destroy Formal Magic ritual against the barrier but that is made difficult by the roaming golems.
-- One could obtain a Copper Key that is guarded in the Demi Plane of Nightmare. This would provide a bubble that barrier cannot touch. The ritual to retrive this key can be provided by Lucen and is described in the module "A Restful Offering"
+- One could obtain a Copper Key that is guarded in the Demi Plane of Nightmare. This artifact would allow you to easily shatter the Protective magics. The ritual to retrive this key can be provided by Lucien and is described in the module "Keyway"
 - One could simply wait for Horatio to run out of time then the ritual will end and the golems will rend him head to toe. 

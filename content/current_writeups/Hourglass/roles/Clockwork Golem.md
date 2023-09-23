@@ -26,7 +26,7 @@ killing_blow: On agents of Void of course.
 descriptive_phrase: Golem with clock gears on its body
 costuming: White Tabard
 
-props: Clock chest piece 
+props: gear chest piece
 
 
 ---
