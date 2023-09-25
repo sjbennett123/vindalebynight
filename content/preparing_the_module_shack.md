@@ -51,3 +51,6 @@ The outlets are basically chaos. Put some labels on them.
 [Smartphone Controled Light](https://www.amazon.com/gp/product/B07ZFPD1P3/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
 [Small floodlight](https://www.amazon.com/gp/product/B0BKVWJMGT/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+
+The module budling at Tomlinson only has 2 plug outlets. 
+
