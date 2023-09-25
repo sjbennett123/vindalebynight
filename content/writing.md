@@ -364,6 +364,18 @@ author: Scott Bennett
 
 
 
+## Paper Props
+
+• Who wrote/drew this item? (Jakarial the young Orc Prince will write a lot differently than Great Grandmama Vincenzia the halfling)
+
+• How big is it? (A sign and a secret note have different writing)
+
+• Where is it on a scale of Rushed to Fancy? (A desperate plea from a captive being taken to jail is an entirely different matter than a formal invitation to the University's annual Walpurgisnacht Ball)
+
+Feel free to add extra detail (this was written 500 years ago, it should be written in deep blood red, I want to to look like the paint dripped, it's been folded and unfolded so many times it's starting to fall apart, must survive rain, must bleed ink in the rain, whatever) but those 3 basics will get me a good understanding of what you want.
+
+
+
 ## POLAR Event Directors Requirements
 
 1. You must work with your Review. 
